@@ -1,0 +1,3645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>ETF</name>
+<longname></longname>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Chartered Treasury</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Chartered Treasury enters tapped.
+When Chartered Treasury enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add R or G.</text>
+</card>
+<card>
+ <name>Clocktower Hideout</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Clocktower Hideout enters tapped.
+When Clocktower Hideout enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add B or R.</text>
+</card>
+<card>
+ <name>Colonial Effigy</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Scarecrow </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+When Colonial Effigy dies, create a 1/1 white Spirit creature token with flying.</text>
+</card>
+<card>
+ <name>Spare Rifle</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +3/+1 and has reach.
+Equip 4</text>
+</card>
+<card>
+ <name>Coalition Apothecary</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Coalition Apothecary enters, you gain 1 life for each nonland permanent you control.</text>
+</card>
+<card>
+ <name>Disowned Spirit</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+</card>
+<card>
+ <name>Domestic Conspirators</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deploy 2 (As this enters, you may tap any number of other creatures you control with total power 2 or more.)
+When Domestic Conspirators enters deployed, destroy target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Faithful of New Covenants</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Faithful of New Covenants and at least one Angel, Demon, Faerie, or Spirit attack, Faithful of New Covenants gets +1/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Futile Faith</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>If you control an Angel, Demon, Faerie, or Spirit, draw a card.
+Exile target nonland permanent. Return that card to the battlefield under its owner’s control at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Grasping Choir</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Angel </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Deploy 3 (As this enters, you may tap any number of other creatures you control with total power 3 or more.)
+When Grasping Choir enters, you may exile target creature if it’s tapped or if Grasping Choir was deployed. </text>
+</card>
+<card>
+ <name>Inherited Blessing</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Inherited Blessing enters, remove all -1/-1 counters from creatures you control.
+Enchanted creature gets +2/+2 and has first strike.</text>
+</card>
+<card>
+ <name>Involuntary Care</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature can’t attack or block, can’t be sacrificed, and its activated abilities can’t be activated.</text>
+</card>
+<card>
+ <name>Liminal Medium</name>
+ <set rarity="common" splitterPath="/Liminal Medium.full.png" >ETF</set>
+ <color>W</color>
+ <related attach="attach">Sojourner of the Beyond</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Attain 4W (4W: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Sojourner of the Beyond</text>
+</card>
+<card>
+ <name>Sojourner of the Beyond</name>
+ <set rarity="common" splitterPath="/Sojourner of the Beyond.full.png" >ETF</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spirit Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When you attain Sojourner of the Beyond, create two 1/1 white Spirit creature tokens with flying. They gain haste until end of turn.
+---
+(Front): Liminal Medium</text>
+</card>
+<card>
+ <name>Remade Dowager</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+</card>
+<card>
+ <name>Riverbed Spirit</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: You gain 1 life.
+2, T: Tap target creature.</text>
+</card>
+<card>
+ <name>Scarring Censure</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Put a -1/-1 counter on target attacking or blocking creature.
+• Scarring Censure deals 2 damage to target attacking or blocking creature.</text>
+</card>
+<card>
+ <name>Scavenging Soldier</name>
+ <set rarity="common" splitterPath="/Scavenging Soldier.full.png" >ETF</set>
+ <color>W</color>
+ <related attach="attach">Celestial Conscript</related>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Scavenging Soldier has first strike as long as it’s attacking.
+Attain 3W (3W: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Celestial Conscript</text>
+</card>
+<card>
+ <name>Celestial Conscript</name>
+ <set rarity="common" splitterPath="/Celestial Conscript.full.png" >ETF</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Angel Soldier </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Whenever a creature blocks Celestial Conscript, put a -1/-1 counter on that creature.
+---
+(Front): Scavenging Soldier</text>
+</card>
+<card>
+ <name>Steadfast Infantry</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>1W: Untap Steadfast Infantry.</text>
+</card>
+<card>
+ <name>Sublime the Soul</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile up to three target cards from a single graveyard.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Battlefield Preserver</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deploy 2 (As this enters, you may tap any number of other creatures you control with total power 2 or more.)
+When Battlefield Preserver enters deployed, exile target nonland permanent until Battlefield Preserver leaves the battlefield.</text>
+</card>
+<card>
+ <name>Failed Martyr</name>
+ <set rarity="uncommon" splitterPath="/Failed Martyr.full.png" >ETF</set>
+ <color>W</color>
+ <related attach="attach">Universal Savior</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Failed Martyr attacks, each other attacking creature gets +1/+0 until end of turn.
+Attain 4W (4W: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Universal Savior</text>
+</card>
+<card>
+ <name>Universal Savior</name>
+ <set rarity="uncommon" splitterPath="/Universal Savior.full.png" >ETF</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel Bard </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Other creatures you control get +1/+0.
+At the beginning of combat on your turn, create a 1/1 red Human creature token with haste.
+---
+(Front): Failed Martyr</text>
+</card>
+<card>
+ <name>Illuminating Archangel</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Angel </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Illuminating Archangel enters, target creature gets +X/+X and gains vigilance and first strike until end of turn, where X is the number of Angels, Demons, Faeries, and/or Spirits you control.</text>
+</card>
+<card>
+ <name>Masked Servant</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you activate your first nonmana activated ability each turn, Masked Servant gets +1/+1 until end of turn.
+2W: Untap target creature.</text>
+</card>
+<card>
+ <name>Provisional Order</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your end step, if you control two or more tapped creatures, you may exile target creature. If you do, return that card to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Sacred Designs</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +3/+3 and has flying and vigilance.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Unfounded Identity</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target nonland permanent if its mana value is less than or equal to the number of creatures you control.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Unite the Concordance</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order. Then you gain 1 life for each Angel, Demon, Faerie, and/or Spirit you control.</text>
+</card>
+<card>
+ <name>Unwilling Pawn</name>
+ <set rarity="uncommon" splitterPath="/Unwilling Pawn.full.png" >ETF</set>
+ <color>W</color>
+ <related attach="attach">Power of Redemption</related>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+Attain 3W (3W: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Power of Redemption</text>
+</card>
+<card>
+ <name>Power of Redemption</name>
+ <set rarity="uncommon" splitterPath="/Power of Redemption.full.png" >ETF</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Angel Noble </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Power of Redemption attacks, choose one —
+• Remove all -1/-1 counters from all creatures you control.
+• Untap all creatures you control.
+---
+(Front): Unwilling Pawn</text>
+</card>
+<card>
+ <name>Arcane Dredger</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Merfolk Wizard Rogue </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+When Arcane Dredger enters, return target instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Carrier Familiar</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Carrier Familiar enters, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Cursory Glance</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell with mana value 3 or less.</text>
+</card>
+<card>
+ <name>Edulcorate</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put target nonland permanent or spell on top of its owner’s library.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Eternal Servant</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying</text>
+</card>
+<card>
+ <name>Ethereal Threshold</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit Wall </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Ethereal Threshold enters, if it was cast, exile target artifact or creature. Return that card to the battlefield under its owner’s control at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Mercurial Merfolk</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Merfolk Shapeshifter </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>1U: Mercurial Merfolk gets +2/-2 until end of turn.
+When Mercurial Merfolk dies, draw a card.</text>
+</card>
+<card>
+ <name>Meticulous Process</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature or artifact
+When Meticulous Process enters, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+Enchanted permanent doesn’t untap during its controller’s untap step.</text>
+</card>
+<card>
+ <name>Midnight Visitor</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Spirit </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Midnight Visitor enters, you may return target creature to its owner’s hand.</text>
+</card>
+<card>
+ <name>Outsider Alchemist</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever Outsider Alchemist deals combat damage to a player, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Social Unweaving</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top four cards of your library. Put one of them into your hand, another on top of your library, and the rest into your graveyard.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Taken Under Wing</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +1/+2 and gains flying until end of turn.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Ungoverned Sneak</name>
+ <set rarity="common" splitterPath="/Ungoverned Sneak.full.png" >ETF</set>
+ <color>U</color>
+ <related attach="attach">Unbound Spirit</related>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Ungoverned Sneak can’t be blocked by creatures with greater power.
+Attain 3U (3U: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Unbound Spirit</text>
+</card>
+<card>
+ <name>Unbound Spirit</name>
+ <set rarity="common" splitterPath="/Unbound Spirit.full.png" >ETF</set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit Rogue </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Unbound Spirit can’t be blocked.
+When you attain Unbound Spirit, tap target creature. That creature doesn’t untap during its controller’s next untap step.
+---
+(Front): Ungoverned Sneak</text>
+</card>
+<card>
+ <name>Vortex Vitae</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 2.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Adept of Signals</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+When Adept of Signals enters, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+Tokens you control have “2, T: Sacrifice this token: Draw a card.”</text>
+</card>
+<card>
+ <name>Cattish Bluestocking</name>
+ <set rarity="uncommon" splitterPath="/Cattish Bluestocking.full.png" >ETF</set>
+ <color>U</color>
+ <related attach="attach">Literary Lioness</related>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Cattish Bluestocking deals combat damage to a player, draw a card.
+Attain 4U (4U: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Literary Lioness</text>
+</card>
+<card>
+ <name>Literary Lioness</name>
+ <set rarity="uncommon" splitterPath="/Literary Lioness.full.png" >ETF</set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Sphinx Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Literary Lioness deals combat damage to player, draw three cards, then discard two cards.
+If you would draw a card while your library has no cards in it, you win the game instead.
+---
+(Front): Cattish Bluestocking</text>
+</card>
+<card>
+ <name>Daughter of Tempests</name>
+ <set rarity="uncommon" splitterPath="/Daughter of Tempests.full.png" >ETF</set>
+ <color>U</color>
+ <related attach="attach">Sibling of All Elements</related>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Shapeshifter </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Daughter of Tempests enters, target creature an opponent controls gets -2/-0 until end of turn.
+Attain 3U (3U: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Sibling of All Elements</text>
+</card>
+<card>
+ <name>Sibling of All Elements</name>
+ <set rarity="uncommon" splitterPath="/Sibling of All Elements.full.png" >ETF</set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Chimera </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Sibling of All Elements attacks, it gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, indestructible, lifelink, menace, and trample.
+---
+(Front): Daughter of Tempests</text>
+</card>
+<card>
+ <name>Foggy Town Militia</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you activate your first nonmana activated ability each turn, you may tap target creature.
+1U: Foggy Town Militia gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Ghost of Lost Futures</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Spirit </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Creatures your opponents control get -1/-0.</text>
+</card>
+<card>
+ <name>Imperfect Insight</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw three cards.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Mental Breakthrough</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Untap all nonland permanents you control.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Reduce to Essentials</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell.
+Create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Sleepless Night</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target instant or sorcery card from your graveyard to your hand.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Alchemical Devastation</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Target creature gets -3/-3 until end of turn.
+• All creatures get -1/-1 until end of turn.</text>
+</card>
+<card>
+ <name>Augmented Alchemist</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Augmented Alchemist enters or dies, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Bitter Regrets</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. You choose an instant or sorcery card from it or a card from their graveyard. Exile that card.</text>
+</card>
+<card>
+ <name>Bloodpact Collector</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Demon </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Bloodpact Collector enters, destroy target creature an opponent controls that was dealt damage this turn or that has a -1/-1 counter on it.</text>
+</card>
+<card>
+ <name>Cruel Display</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player sacrifices a creature unless they discard a creature card.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Griefless Widow</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+</card>
+<card>
+ <name>Immured Fiend</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Demon Wall </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Immured Fiend enters, target opponent discards two cards.</text>
+</card>
+<card>
+ <name>Inhuman Grace</name>
+ <set rarity="common" splitterPath="/Inhuman Grace.full.png" >ETF</set>
+ <color>B</color>
+ <related attach="attach">Unfallen Angel</related>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Demon Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Attain 4B (4B: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Unfallen Angel</text>
+</card>
+<card>
+ <name>Unfallen Angel</name>
+ <set rarity="common" splitterPath="/Unfallen Angel.full.png" >ETF</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel Demon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance
+When you attain Unfallen Angel, target opponent discards a card.
+---
+(Front): Inhuman Grace</text>
+</card>
+<card>
+ <name>Landed Bloodsucker</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Noble </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+</card>
+<card>
+ <name>Lure Across the Veil</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 2 less to cast if you control an Angel, Demon, Faerie, or Spirit.
+Exile target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Melancholic Ichor</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each opponent loses 2 life and you gain 2 life. You mill two cards.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Plagued Doctor</name>
+ <set rarity="common" splitterPath="/Plagued Doctor.full.png" >ETF</set>
+ <color>B</color>
+ <related attach="attach">Beast of Pestilence</related>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, each opponent loses 1 life.
+Attain 3B (3B: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Beast of Pestilence</text>
+</card>
+<card>
+ <name>Beast of Pestilence</name>
+ <set rarity="common" splitterPath="/Beast of Pestilence.full.png" >ETF</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Demon Wizard </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, each opponent loses 1 life and Beast of Pestilence gets +1/+1 until end of turn.
+---
+(Front): Plagued Doctor</text>
+</card>
+<card>
+ <name>Rotten Retinue</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Rotten Retinue enters, return target creature card from your graveyard to your hand.
+Enchanted creature gets +2/+2 and has deathtouch.</text>
+</card>
+<card>
+ <name>Sanitarium Skeleton</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Skeleton </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>2B: Return Sanitarium Skeleton from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Trainer of the Abyss</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Trainer of the Abyss dies, create a 1/1 black Demon Hound creature token with deathtouch.</text>
+</card>
+<card>
+ <name>Uncertain Times</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put two -1/-1 counters on target creature.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Adept of Transfusions</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When Adept of Transfusions enters, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+Tokens you control have “1, T, Discard a card, Sacrifice this token: Draw a card.”</text>
+</card>
+<card>
+ <name>Branded Contractor</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 2 (This enters with two -1/-1 counters. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+When Branded Contractor dies, you may put its counters on target creature.</text>
+</card>
+<card>
+ <name>Bristling Baron</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+When Bristling Baron dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Consumption Catalyst</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Consumption Catalyst enters, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+Whenever you draw a card, each opponent loses 1 life and you gain 1 life.</text>
+</card>
+<card>
+ <name>Covetous Pixie</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Faerie </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Covetous Pixie dies, if you control another Angel, Demon, Faerie, or Spirit, put a -1/-1 counter on target creature an opponent controls.</text>
+</card>
+<card>
+ <name>Death of the Author</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose a nonlegendary, nonland card name. Target opponent reveals their hand and discards a card with that name.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Hopeless Romantic</name>
+ <set rarity="uncommon" splitterPath="/Hopeless Romantic.full.png" >ETF</set>
+ <color>B</color>
+ <related attach="attach">Hopeless Lanonshee</related>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Hopeless Romantic or another creature you control dies, each opponent loses 1 life.
+Attain 3B (3B: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Hopeless Lanonshee</text>
+</card>
+<card>
+ <name>Hopeless Lanonshee</name>
+ <set rarity="uncommon" splitterPath="/Hopeless Lanonshee.full.png" >ETF</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Faerie Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When you attain Hopeless Lanonshee, create two 1/1 black Construct artifact creature tokens.
+Whenever a creature dies, each opponent loses 1 life and you gain 1 life.
+---
+(Front): Hopeless Romantic</text>
+</card>
+<card>
+ <name>One Life for Another</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature from your graveyard to the battlefield. When you do, if you control an Angel, Demon, Faerie, or Spirit, target opponent sacrifices a creature.</text>
+</card>
+<card>
+ <name>Two-Faced Aristocrat</name>
+ <set rarity="uncommon" splitterPath="/Two-Faced Aristocrat.full.png" >ETF</set>
+ <color>B</color>
+ <related attach="attach">Unfettered Noble</related>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice a creature: Two-Faced Aristocrat gains indestructible until end of turn.
+Attain 4B (4B: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Unfettered Noble</text>
+</card>
+<card>
+ <name>Unfettered Noble</name>
+ <set rarity="uncommon" splitterPath="/Unfettered Noble.full.png" >ETF</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Demon Noble </type>
+ <pt>6/2</pt>
+ <tablerow>2</tablerow>
+ <text>Unfettered Noble can’t be blocked unless defending player pays 3 life, discards a card, or sacrifices a nonland permanent.
+Sacrifice a nonland permanent: Unfettered Noble gains indestructible until end of turn.
+---
+(Front): Two-Faced Aristocrat</text>
+</card>
+<card>
+ <name>Unsolved Disappearance</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search target player’s graveyard and library for up to one card each and exile those cards. That player shuffles.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Abyssal Champion</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Demon Knight </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+</card>
+<card>
+ <name>Coalition Alchemist</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deploy 3 (As this enters, you may tap any number of other creatures you control with total power 3 or more.)
+When Coalition Alchemist enters deployed, return target instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Delegitimize</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Delegitimize enters, target opponent sacrifices a land.
+Enchanted creature gets +2/+1.</text>
+</card>
+<card>
+ <name>Hotblooded Sorcerer</name>
+ <set rarity="common" splitterPath="/Hotblooded Sorcerer.full.png" >ETF</set>
+ <color>R</color>
+ <related attach="attach">Inglorious Blaze</related>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Hotblooded Sorcerer deals 1 damage to target player or planeswalker.
+Attain 3R (3R: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Inglorious Blaze</text>
+</card>
+<card>
+ <name>Inglorious Blaze</name>
+ <set rarity="common" splitterPath="/Inglorious Blaze.full.png" >ETF</set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Demon Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell, untap Inglorious Blaze.
+T: Inglorious Blaze deals 1 damage to target player or planeswalker.
+---
+(Front): Hotblooded Sorcerer</text>
+</card>
+<card>
+ <name>Lamplight Explosion</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Destroy target artifact. Lamplight Explosion deals 1 damage to each opponent.
+• Lamplight Explosion deals 1 damage to each creature your opponents control.</text>
+</card>
+<card>
+ <name>Last of Kin</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Up to two target creatures can’t block this turn.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Out-of-Depth Amateur</name>
+ <set rarity="common" splitterPath="/Out-of-Depth Amateur.full.png" >ETF</set>
+ <color>R</color>
+ <related attach="attach">Specialist of the Deep</related>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Merfolk </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Out-of-Depth Amateur can’t attack or block alone.
+Attain 4R (4R: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Specialist of the Deep</text>
+</card>
+<card>
+ <name>Specialist of the Deep</name>
+ <set rarity="common" splitterPath="/Specialist of the Deep.full.png" >ETF</set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Artificer </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures your opponents control can’t block alone. (They may block different creatures.)
+---
+(Front): Out-of-Depth Amateur</text>
+</card>
+<card>
+ <name>Parish Rally</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Attacking creatures get +2/+0 until end of turn.
+• Discard up to two cards, then draw that many cards plus one.</text>
+</card>
+<card>
+ <name>Revolutionary Recruiters</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deploy 4 (As this enters, you may tap any number of other creatures you control with total power 4 or more.)
+When Revolutionary Recruiters enters deployed, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. </text>
+</card>
+<card>
+ <name>Scarred Duelist</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+</card>
+<card>
+ <name>Scribe of Pacts</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Demon Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, prowess</text>
+</card>
+<card>
+ <name>Syncretic Partisan</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace, prowess</text>
+</card>
+<card>
+ <name>Tears of Rage</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+1 and gains haste until end of turn.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Coalition Grenadier</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Deploy 3 (As this enters, you may tap any number of other creatures you control with total power 3 or more.)
+When Coalition Grenadier enters deployed, it deals 4 damage to target creature you don’t control.</text>
+</card>
+<card>
+ <name>Cycle of Scars</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you put one or more -1/-1 counters on a creature, put that many charge counters on Cycle of Scars.
+Remove three charge counters from Cycle of Scars: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+</card>
+<card>
+ <name>Hell's Bells</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or land. If a land was destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Incarnation of Enmity</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>5R</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Demon Serpent </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each tapped creature you control.
+Whenever Incarnation of Enmity attacks, each other attacking creature gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Making Indentures</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Orphan Prodigy</name>
+ <set rarity="uncommon" splitterPath="/Orphan Prodigy.full.png" >ETF</set>
+ <color>R</color>
+ <related attach="attach">Prodigal Spark</related>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Orphan Prodigy is dealt damage, it deals that much damage to target player.
+Attain 4R (4R: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Prodigal Spark</text>
+</card>
+<card>
+ <name>Prodigal Spark</name>
+ <set rarity="uncommon" splitterPath="/Prodigal Spark.full.png" >ETF</set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental Wizard </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever Prodigal Spark is dealt damage, it deals that much damage to any target.
+---
+(Front): Orphan Prodigy</text>
+</card>
+<card>
+ <name>Overwhelming Fusillade</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Overwhelming Fusillade deals 4 damage divided as you choose among any number of targets.
+If you control a creature with power 4 or greater, Overwhelming Fusillade deals 2 damage to each opponent.</text>
+</card>
+<card>
+ <name>Alchemical Awakening</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature. It gets +1/+1 for each token you control until end of turn.</text>
+</card>
+<card>
+ <name>Artificial Mortality</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or enchantment.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Balsam Elemental</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Elemental </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 3 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3.)
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Estranged Partisan</name>
+ <set rarity="common" splitterPath="/Estranged Partisan.full.png" >ETF</set>
+ <color>G</color>
+ <related attach="attach">Sylvan Subversive</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Faerie Soldier </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Attain 4G (4G: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Sylvan Subversive</text>
+</card>
+<card>
+ <name>Sylvan Subversive</name>
+ <set rarity="common" splitterPath="/Sylvan Subversive.full.png" >ETF</set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Soldier </type>
+ <pt>5/6</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Whenever another creature enters, untap Sylvan Subversive.
+---
+(Front): Estranged Partisan</text>
+</card>
+<card>
+ <name>False Dilemma</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose creature or land, or if you control a creature with power 4 or greater, choose both. Reveal the top five cards of your library. Put all cards of a chosen type revealed this way into your hand and the rest into your graveyard.</text>
+</card>
+<card>
+ <name>Fine Collection</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 Insect creature tokens that are all colors.
+Create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Gnarled Sprite</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Faerie Shapeshifter </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+As an additional cost to cast this spell, sacrifice a creature or pay 2.
+Defender</text>
+</card>
+<card>
+ <name>Hunter's Distinction</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+As Hunter’s Distinction enters, you may tap enchanted creature if it’s untapped. When you do, put three -1/-1 counters on target creature with flying.
+Enchanted creature gets +3/+2 and has reach.</text>
+</card>
+<card>
+ <name>Induced Violence</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control deals damage equal to its power to target creature you don’t control.
+Create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Relief Battalion</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Deploy 3 (As this enters, you may tap any number of other creatures you control with total power 3 or more.)
+When Relief Battalion enters deployed, draw a card.</text>
+</card>
+<card>
+ <name>Rogue Groundskeeper</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deploy 2 (As this enters, you may tap any number of other creatures you control with total power 2 or more.)
+When Rogue Groundskeeper enters deployed, exile up to two target cards from a single graveyard.</text>
+</card>
+<card>
+ <name>Stray Sighthound</name>
+ <set rarity="common" splitterPath="/Stray Sighthound.full.png" >ETF</set>
+ <color>G</color>
+ <related attach="attach">Seer of the Hunt</related>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Hound </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Stray Sighthound can’t be blocked by creatures with power 2 or less.
+Attain 3G (3G: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Seer of the Hunt</text>
+</card>
+<card>
+ <name>Seer of the Hunt</name>
+ <set rarity="common" splitterPath="/Seer of the Hunt.full.png" >ETF</set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Faerie Hound </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures with power less than Seer of the Hunt’s power can’t block it.
+---
+(Front): Stray Sighthound</text>
+</card>
+<card>
+ <name>Verdurous Growth</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +3/+3 and gains trample until end of turn.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Volunteer Sentry</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance</text>
+</card>
+<card>
+ <name>Witch of Life's Nature</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Abolition of Self</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target activated ability from a nonland source. (Mana abilities can’t be targeted.)
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Adept of Rations</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Adept of Rations enters, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+Tokens you control have “2, T, Sacrifice this token: You gain 3 life.”</text>
+</card>
+<card>
+ <name>Alluring Rider</name>
+ <set rarity="uncommon" splitterPath="/Alluring Rider.full.png" >ETF</set>
+ <color>G</color>
+ <related attach="attach">Orphaned Nuckalavee</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Shapeshifter </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Alluring Rider must be blocked if able.
+Attain 4G (4G: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Orphaned Nuckalavee</text>
+</card>
+<card>
+ <name>Orphaned Nuckalavee</name>
+ <set rarity="uncommon" splitterPath="/Orphaned Nuckalavee.full.png" >ETF</set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Chimera </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>All creatures able to block Orphaned Nuckalavee do so.
+---
+(Front): Alluring Rider</text>
+</card>
+<card>
+ <name>Hamlet Witch</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof
+Deploy 4 (As this enters, you may tap any number of other creatures you control with total power 4 or more.)
+When Hamlet Witch enters deployed, return target card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Hunting Company</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Deploy 3 (As this enters, you may tap any number of other creatures you control with total power 3 or more.)
+When Hunting Company enters deployed, destroy target creature with flying.</text>
+</card>
+<card>
+ <name>Malignance</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+0.
+When Malignance is put into a graveyard from the battlefield, return Malignance to its owner’s hand.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Naive Apprentice</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Naive Apprentice enters, each player creates a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+As long as an opponent controls an artifact, Naive Apprentice gets +2/+0.</text>
+</card>
+<card>
+ <name>Sprout Hermit</name>
+ <set rarity="uncommon" splitterPath="/Sprout Hermit.full.png" >ETF</set>
+ <color>G</color>
+ <related attach="attach">Sprite of Spring</related>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Faerie Shaman </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Sprout Hermit can’t attack unless you control a creature with power 4 or greater.
+Attain 3G (3G: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Sprite of Spring</text>
+</card>
+<card>
+ <name>Sprite of Spring</name>
+ <set rarity="uncommon" splitterPath="/Sprite of Spring.full.png" >ETF</set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Faerie Shaman </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Each creature you control with power 4 or greater can’t be blocked by creature tokens.
+---
+(Front): Sprout Hermit</text>
+</card>
+<card>
+ <name>The Struggle for Death</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When The Struggle for Death enters, choose target creature. Any number of creatures you control fight that creature.
+Whenever a creature dies, look at the top card of your library. You may put it into your graveyard.</text>
+</card>
+<card>
+ <name>Troubled Heir</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Troubled Heir dies, create a tapped colorless Plains land token.</text>
+</card>
+<card>
+ <name>Urisk's Invitation</name>
+ <set rarity="uncommon">ETF</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>If you would create a token, you may instead create a tapped 2/2 green Faerie Bard creature token.
+Whenever one or more creature tokens you control deal combat damage to a player, that player sacrifices an artifact or enchantment.</text>
+</card>
+<card>
+ <name>Chimeral Plating</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +4/+3.
+Equip—2, Put a -1/-1 counter on a creature you control.</text>
+</card>
+<card>
+ <name>Absari, Chiresian Herald</name>
+ <set rarity="rare">ETF</set>
+ <color>WB</color>
+ <manacost>3WB</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Planeswalker - Absari </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Create a 1/1 black Faerie creature token with flying and a 2/2 white Spirit Noble creature token with lifelink.
+[-X]: Target creature gets -X/-X until end of turn. Its controller loses X life.
+[-7]: You get an emblem with “Whenever a permanent enters under your control, you may have it gain flying and vigilance and become a 4/4 Angel creature in addition to its other types.” (This effect lasts indefinitely.)</text>
+</card>
+<card>
+ <name>Amleth, Royal Claimant</name>
+ <set rarity="rare">ETF</set>
+ <color>WG</color>
+ <manacost>2GW</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Amleth can’t be blocked by creatures with power 3 or less.
+At the beginning of your end step, if you control three or more tapped creatures, create a 4/4 white Angel creature token with flying and vigilance. Otherwise, create a 1/1 white Soldier creature token.</text>
+</card>
+<card>
+ <name>Angel of the Flock</name>
+ <set rarity="uncommon">ETF</set>
+ <color>WG</color>
+ <manacost>2GW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel </type>
+ <pt>*/*</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Angel of the Flock’s power and toughness are each equal to the number of creatures you control.</text>
+</card>
+<card>
+ <name>Beachhead Partisan</name>
+ <set rarity="uncommon">ETF</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Beachhead Partisan has first strike as long as it’s attacking.
+When Beachhead Partisan enters, it deals X damage to any target, where X is the number of tapped creatures you control.</text>
+</card>
+<card>
+ <name>Beatrice of the Urchins</name>
+ <set rarity="rare">ETF</set>
+ <color>BR</color>
+ <manacost>2BR</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When Beatrice enters, target opponent reveals their hand. You choose a nonland card from it. Exile that card. As long as that card remains exiled, you may cast it if its owner lost life this turn, and you may spend mana as though it were mana of any type to cast that spell.</text>
+</card>
+<card>
+ <name>Benthic Alchemist</name>
+ <set rarity="uncommon">ETF</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Benthic Alchemist enters, draw a card, then discard a card, then mill a card.
+Whenever you cast an instant or sorcery spell, create a 1/1 colorless Elemental creature token. It gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Cathette, Rabble Rouser</name>
+ <set rarity="rare">ETF</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Cathette </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Create a 1/1 red Human creature token with haste.
+[-2]: Untap all creatures you control. Until end of turn, they gain “T: This creature deals 1 damage to each opponent.” 
+[-6]: You get an emblem with “Whenever a creature becomes tapped, this deals 2 damage to any target and you gain 2 life.”</text>
+</card>
+<card>
+ <name>Fallen Sluagh</name>
+ <set rarity="uncommon">ETF</set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Faerie Spirit </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each permanent sacrificed this turn.
+Fallen Sluagh can’t be blocked by creatures with power 2 or less.</text>
+</card>
+<card>
+ <name>Kanvar, Coalition Leader</name>
+ <set rarity="rare">ETF</set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Advisor </type>
+ <pt>4/1</pt>
+ <tablerow>2</tablerow>
+ <text>Kanvar can’t attack or block.
+Whenever a creature you control with power 4 or greater dies, draw a card.
+RG, T: Copy target triggered ability you control. You may choose new targets for the copy. (A triggered ability uses the words “when,” “whenever,” or “at.”)</text>
+</card>
+<card>
+ <name>Miss Leticia Wormwood</name>
+ <set rarity="rare">ETF</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Lettie </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+2]: Create a Vial token.
+[-3]: Sacrifice another nonland permanent. If you do, destroy target nonland permanent.
+[-9]: You get an emblem with “At the beginning of your end step, create Fallen One, a legendary 6/6 black Faerie Angel Avatar creature token with flying.”</text>
+</card>
+<card>
+ <name>Mysteries of Life</name>
+ <set rarity="uncommon">ETF</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever Mysteries of Life enters or you create a token, choose one that hasn’t been chosen this turn—
+• You gain 2 life.
+• Draw a card, then discard a card.
+• You may tap or untap target permanent.</text>
+</card>
+<card>
+ <name>Scion of Fiends</name>
+ <set rarity="uncommon">ETF</set>
+ <color>BR</color>
+ <manacost>2BR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+Whenever you put one or more -1/-1 counters on a creature, Scion of Fiends deals that much damage to each opponent.</text>
+</card>
+<card>
+ <name>Simul, Sylvan Alchemist</name>
+ <set rarity="rare">ETF</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Simul </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Create a 1/1 colorless Elemental creature token. Put a loyalty counter on each planeswalker you control. 
+[+1]: Untap up to two target permanents.
+[-7]: You get an emblem with “Whenever you create a token, draw a card.” Create three 4/4 green Chimera creature tokens.</text>
+</card>
+<card>
+ <name>Waltz of the Fallen</name>
+ <set rarity="uncommon">ETF</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Angels, Demons, Faeries, and Spirits you control get +1/+1.
+2WB, Pay 1 life, Discard a card: Create a tapped 1/1 white Spirit creature token with flying.</text>
+</card>
+<card>
+ <name>Witch of the Veil</name>
+ <set rarity="uncommon">ETF</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Witch of the Veil enters, if it was cast, you may sacrifice a creature. If you do, return that creature to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Xenocrata, Usurper of Tides</name>
+ <set rarity="rare">ETF</set>
+ <color>UR</color>
+ <manacost>4UR</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Planeswalker - Xenocrata </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, put a loyalty counter on Xenocrata and tap up to one target permanent.
+[0]: Opponents can’t untap more than three permanents during their next untap steps.
+[-3]: Xenocrata deals 6 damage divided as you choose among any number of target creatures and/or planeswalkers.
+[-9]: Cast any number of instant and/or sorcery cards you own in exile and in your graveyard without paying their mana costs.</text>
+</card>
+<card>
+ <name>Barking Irons</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Barking Irons enters, if it’s not a token, create a token that’s a copy of it.
+Equipped creature gets +2/+0.
+Equip 2</text>
+</card>
+<card>
+ <name>Barton's Pocketwatch</name>
+ <set rarity="rare">ETF</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you untap a nonland permanent, put a winding counter on Barton’s Pocketwatch.
+T: Look at the top card of your library. You may put it into your graveyard. Then if Barton’s Pocketwatch has 12 or more winding counters on it, exile it and take an extra turn after this one.</text>
+</card>
+<card>
+ <name>Celestial Scythe</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Celestial Scythe enters, attach it to target Angel, Demon, Faerie, or Spirit you control.
+Equipped creature gets +2/+1.
+Equip 2</text>
+</card>
+<card>
+ <name>Mechanical Tactician</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deploy 4 (As this enters, you may tap any number of other creatures you control with total power 4 or more.)
+When Mechanical Tactician enters deployed, tap up to two target creatures an opponent controls. Those creatures don’t untap during their controller’s next untap step.</text>
+</card>
+<card>
+ <name>Prototype Engine</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color.
+4, T, Sacrifice Prototype Engine: Put four -1/-1 counters on target creature.</text>
+</card>
+<card>
+ <name>Stained Reliquary</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Stained Reliquary enters, choose a card type.
+T: Target player exiles a card from their graveyard of the chosen type.
+2, Exile Stained Reliquary: Exile all graveyards. Create a tapped 1/1 white Spirit creature token with flying.</text>
+</card>
+<card>
+ <name>Strider Engine</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>7/6</pt>
+ <tablerow>2</tablerow>
+ <text>Strider Engine enters tapped with a -1/-1 counter on it unless you spent at least three colors of mana to cast it.</text>
+</card>
+<card>
+ <name>Unmarked Vials</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Unmarked Vials enters, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Abbey of Masquerades</name>
+ <set rarity="rare">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Abbey of Masquerades: Choose a basic land type. Create a tapped colorless basic land token of the chosen type.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Alchemist's Laboratory</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add G or U.
+2, T, Sacrifice Alchemist’s Laboratory and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Aristocrat's Gallery</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Aristocrat’s Gallery enters tapped.
+When Aristocrat’s Gallery enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>Capital Towpath</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add R or G.
+2, T, Sacrifice Capital Towpath and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Decayed Bedchamber</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Decayed Bedchamber enters tapped.
+When Decayed Bedchamber enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add B or G.</text>
+</card>
+<card>
+ <name>Forgotten Attic</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Forgotten Attic enters tapped.
+When Forgotten Attic enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add U or B.</text>
+</card>
+<card>
+ <name>Haunted Estate</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add W or U.
+2, T, Sacrifice Haunted Estate and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Industrial District</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add B or R.
+2, T, Sacrifice Industrial District and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Lamplit Thoroughfare</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add U or R.
+2, T, Sacrifice Lamplit Thoroughfare and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Palace Hall</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Palace Hall enters tapped.
+When Palace Hall enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add G or W.</text>
+</card>
+<card>
+ <name>Private Library</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Private Library enters tapped.
+When Private Library enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add W or U.</text>
+</card>
+<card>
+ <name>Provincial Hamlet</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add G or W.
+2, T, Sacrifice Provincial Hamlet and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Royal Hospital</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add W or B.
+2, T, Sacrifice Royal Hospital and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Tenement Alley</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add R or W.
+2, T, Sacrifice Tenement Alley and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>University Archive</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>University Archive enters tapped.
+When University Archive enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add U or R.</text>
+</card>
+<card>
+ <name>Veteran's Study</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Veteran’s Study enters tapped.
+When Veteran’s Study enters the battlefield, look at the top card of your library. You may put it into your graveyard.
+T: Add R or W.</text>
+</card>
+<card>
+ <name>Virtuoso's Parlor</name>
+ <set rarity="common">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Virtuoso’s Parlor enters tapped.
+When Virtuoso’s Parlor enters, look at the top card of your library. You may put it into your graveyard.
+T: Add W or B.</text>
+</card>
+<card>
+ <name>Walled Garden</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add B or G.
+2, T, Sacrifice Walled Garden and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Weathered Wharf</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add U or B.
+2, T, Sacrifice Weathered Wharf and another permanent: Draw a card. Activate this only during your turn.</text>
+</card>
+<card>
+ <name>Artificial Sanctity</name>
+ <set rarity="rare">ETF</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Creatures you control get +2/+2.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Divine Conspiracy</name>
+ <set rarity="rare">ETF</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Divine Conspiracy has flash as long as an Angel, Demon, Faerie, or Spirit you control died this turn.
+Choose up to two target permanent cards in your graveyard that were put there from the battlefield this turn. Return them to the battlefield.</text>
+</card>
+<card>
+ <name>Earthly Principality</name>
+ <set rarity="rare">ETF</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Angel </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance, reach
+Deploy 5 (As this enters, you may tap any number of other creatures you control with total power 5 or more.)
+When Earthly Principality enters deployed, your life total becomes equal to your starting life total plus 5.</text>
+</card>
+<card>
+ <name>Ethereal Shepherd</name>
+ <set rarity="rare">ETF</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spirit Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Deploy 2 (As this enters, you may tap any number of other creatures you control with total power 2 or more.)
+When Ethereal Shepherd enters deployed, exile target creature. That creature’s controller creates a 1/1 white Spirit creature token with flying.</text>
+</card>
+<card>
+ <name>Joane, Royal Spymaster</name>
+ <set rarity="rare" splitterPath="/Joane, Royal Spymaster.full.png" >ETF</set>
+ <color>W</color>
+ <related attach="attach">The Conquering Wyrm</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more creatures deal combat damage to you, put a -1/-1 counter on one of them.
+Attain 5W (5W: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): The Conquering Wyrm</text>
+</card>
+<card>
+ <name>The Conquering Wyrm</name>
+ <set rarity="rare" splitterPath="/The Conquering Wyrm.full.png" >ETF</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Dragon Spirit </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a creature attacks you or a planeswalker you control, put a -1/-1 counter on that creature.
+---
+(Front): Joane, Royal Spymaster</text>
+</card>
+<card>
+ <name>Sacred Opus</name>
+ <set rarity="rare">ETF</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you activate your first nonmana activated ability each turn, put a stage counter on Sacred Opus.
+1W: Until end of turn, Sacred Opus becomes an Angel Avatar creature in addition to its other types and gains “This creature’s power and toughness are each equal to the number of stage counters on it.”</text>
+</card>
+<card>
+ <name>The Empty Throne</name>
+ <set rarity="rare">ETF</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, destroy target creature with the greatest power or tied for greatest power among creatures on the battlefield. Then if there are no creatures on the battlefield, sacrifice The Empty Throne.</text>
+</card>
+<card>
+ <name>Birds of Odd Feathers</name>
+ <set rarity="rare">ETF</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exchange control of two target permanents that share a permanent type.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Elementary Conclusion</name>
+ <set rarity="rare">ETF</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell, activated ability, or triggered ability unless its controller pays X. (Mana abilities can’t be targeted.)</text>
+</card>
+<card>
+ <name>Endless Enlightenment</name>
+ <set rarity="rare">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a spell, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Janneke, Surface Scholar</name>
+ <set rarity="rare" splitterPath="/Janneke, Surface Scholar.full.png" >ETF</set>
+ <color>U</color>
+ <related attach="attach">Janneke, Adept of Mortals</related>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Merfolk </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Activated abilities of sources you control cost up to 1 less to activate. This effect can’t reduce the mana in that cost to less than one mana.
+Attain 5U (5U: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Janneke, Adept of Mortals</text>
+</card>
+<card>
+ <name>Janneke, Adept of Mortals</name>
+ <set rarity="rare" splitterPath="/Janneke, Adept of Mortals.full.png" >ETF</set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Merfolk </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Activated abilities of sources you control cost up to 3 less to activate. This effect can’t reduce the mana in that cost to less than one mana.
+You may spend any number of colors of mana to activate Attain abilities of permanents you control.
+---
+(Front): Janneke, Surface Scholar</text>
+</card>
+<card>
+ <name>Organic Dreadnought</name>
+ <set rarity="rare">ETF</set>
+ <color>U</color>
+ <manacost>6UU</manacost>
+ <cmc>8</cmc>
+ <type>Creature - Leviathan Chimera </type>
+ <pt>7/8</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each token you control.
+Whenever Organic Dreadnought attacks, tap target permanent defending player controls. That permanent doesn’t untap during its controller’s next untap step.</text>
+</card>
+<card>
+ <name>Quicken</name>
+ <set rarity="rare">ETF</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>The next sorcery spell you cast this turn can be cast as though it had flash.
+Draw a card.</text>
+</card>
+<card>
+ <name>Reconstructed Adept</name>
+ <set rarity="rare">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Prowess
+When Reconstructed Adept enters, target instant or sorcery card in your graveyard gains agonize until end of turn. (You may cast it by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile that card.)</text>
+</card>
+<card>
+ <name>Spirit of Vitriol</name>
+ <set rarity="rare">ETF</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Spirit </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Spirit of Vitriol attacks, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+Discard a card: Spirit of Vitriol gains hexproof until end of turn. Tap it.</text>
+</card>
+<card>
+ <name>Demon of Necessary Evil</name>
+ <set rarity="rare">ETF</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Demon Noble </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+At the beginning of combat on your turn, if you’ve sacrificed three or more permanents this turn, return Demon of Necessary Evil from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Disharmony of the Spheres</name>
+ <set rarity="rare">ETF</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Disharmony of the Spheres enters, return up to four creature cards from your graveyard to your hand.
+At the beginning of your upkeep, you may sacrifice an Angel, a Demon, a Faerie, and a Spirit with different names. If you do, you win the game.</text>
+</card>
+<card>
+ <name>Lord Pollux Marglen</name>
+ <set rarity="rare" splitterPath="/Lord Pollux Marglen.full.png" >ETF</set>
+ <color>B</color>
+ <related attach="attach">Marglen of Undying Oaths</related>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Vampire Noble </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever an opponent searches a library, they lose 2 life.
+Attain 4B (4B: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Marglen of Undying Oaths</text>
+</card>
+<card>
+ <name>Marglen of Undying Oaths</name>
+ <set rarity="rare" splitterPath="/Marglen of Undying Oaths.full.png" >ETF</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Vampire Demon </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, lifelink
+Your opponents can’t search libraries.
+B, Pay 2 life, Discard a card: Search your library for a card, then shuffle and put that card on top.
+---
+(Front): Lord Pollux Marglen</text>
+</card>
+<card>
+ <name>Tempting Tutor</name>
+ <set rarity="rare">ETF</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a card, put that card into your hand, then shuffle. If you control two or more creatures with -1/-1 counters on them, add BBB.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Titan of Fallen Stars</name>
+ <set rarity="rare">ETF</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Creatures - Faerie Angel </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Titan of Fallen Stars gets +1/+1 from -1/-1 counters instead of -1/-1.
+When Titan of Fallen Stars enters, move any number of -1/-1 counters from creatures you control onto Titan of Fallen Stars.</text>
+</card>
+<card>
+ <name>Weeping Failure</name>
+ <set rarity="rare">ETF</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ooze Chimera </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, discard a card and create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Desperate Contrition</name>
+ <set rarity="rare">ETF</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent may have Desperate Contrition deal 4 damage to them. If that player doesn’t, you draw three cards.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Fallen Star's Revelation</name>
+ <set rarity="rare">ETF</set>
+ <color>R</color>
+ <manacost>XRRR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 1 less to cast for each creature you control with power 4 or greater.
+Reveal the top X cards of your library. You may cast any number of nonland cards with mana value X or less from among them without paying their mana costs. Put the rest into your graveyard.</text>
+</card>
+<card>
+ <name>Forgotten Tyrant</name>
+ <set rarity="rare">ETF</set>
+ <color>R</color>
+ <manacost>5RR</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Dragon </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Disgraced 4 (This enters with four -1/-1 counters. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+Whenever you put one or more -1/-1 counters on Forgotten Tyrant, it deals that much damage to any target.</text>
+</card>
+<card>
+ <name>Line Officer</name>
+ <set rarity="rare">ETF</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Deploy 5 (As this enters, you may tap any number of other creatures you control with total power 5 or more.)
+When Line Officer enters deployed, it deals 3 damage to each creature your opponents control.</text>
+</card>
+<card>
+ <name>Master of No Quarter</name>
+ <set rarity="rare">ETF</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Disgraced 2 (This enters with two -1/-1 counters. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+Whenever a creature an opponent controls blocks, Master of No Quarter deals 2 damage to that creature.</text>
+</card>
+<card>
+ <name>Regrets of Mortals</name>
+ <set rarity="rare">ETF</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Demon Horror </type>
+ <pt>2/5</pt>
+ <tablerow>2</tablerow>
+ <text>Instant and sorcery spells you cast cost 1 less to cast.
+Whenever you cast an instant or sorcery spell, Regrets of Mortals gets +2/+0 until end of turn. You may discard a card. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Street Combat</name>
+ <set rarity="rare">ETF</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your end step, if you control two or more tapped creatures, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+</card>
+<card>
+ <name>Cabinet of Curiosities</name>
+ <set rarity="rare">ETF</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Cabinet of Curiosities enters, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)
+If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.</text>
+</card>
+<card>
+ <name>Glaistig of Wild Hunts</name>
+ <set rarity="rare">ETF</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Faerie Noble </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Reach, trample
+Deploy 6 (As this enters, you may tap any number of other creatures you control with total power 6 or more.)
+When Glaistig of Wild Hunts enters, if it was cast and deployed, untap all lands you control.</text>
+</card>
+<card>
+ <name>Grim Sower</name>
+ <set rarity="rare">ETF</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Faerie Druid </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another nonland, nontoken creature you control dies, return it to the battlefield tapped with a sapling counter on it. It becomes a Forest Animus land named Bitter Hazel and loses all other card types. It gains “Pay this card’s mana cost: This permanent becomes a creature in addition to its other types until end of turn.”</text>
+</card>
+<card>
+ <name>Hyden, Form Philosopher</name>
+ <set rarity="rare" splitterPath="/Hyden, Form Philosopher.full.png" >ETF</set>
+ <color>G</color>
+ <related attach="attach">The Finest Specimen</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Noble </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures you control have “T: Add C or one mana of any of this creature’s colors.”
+Attain 5G (5G: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): The Finest Specimen</text>
+</card>
+<card>
+ <name>The Finest Specimen</name>
+ <set rarity="rare" splitterPath="/The Finest Specimen.full.png" >ETF</set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Insect Chimera </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Creatures you control have “T: Add C or one mana of any color.”
+X: The Finest Specimen gets +X/+X until end of turn.
+---
+(Front): Hyden, Form Philosopher</text>
+</card>
+<card>
+ <name>Life's Grandeur</name>
+ <set rarity="rare">ETF</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +4/+4 and gain trample until end of turn.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Natural Philosopher</name>
+ <set rarity="rare">ETF</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>This spell can’t be countered.
+Creatures you control have ward 2. (Whenever one becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+When Natural Philosopher enters, you gain 2 life for each creature you control with power 4 or greater.</text>
+</card>
+<card>
+ <name>The Great Work Continues</name>
+ <set rarity="rare">ETF</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Cards in your hand have lifecycle 3.
+2G, Sacrifice four creatures: Create two tapped 4/4 green Chimera creature tokens.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>The Marquess Devonport</name>
+ <set rarity="rare" splitterPath="/The Marquess Devonport.full.png" >ETF</set>
+ <color>R</color>
+ <related attach="attach">The Branded Usurper</related>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever The Marquess Devonport attacks, it deals 2 damage to you.
+Attain 5R (5R: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): The Branded Usurper</text>
+</card>
+<card>
+ <name>The Branded Usurper</name>
+ <set rarity="rare" splitterPath="/The Branded Usurper.full.png" >ETF</set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Dragon Noble </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+Whenever The Branded Usurper attacks, it deals 2 damage to any target.
+If you would lose the game, instead exile The Branded Usurper. Your life total becomes 0. Until an opponent’s next turn, you can’t lose the game and you can’t gain life. Take an extra turn after this one.
+---
+(Front): The Marquess Devonport</text>
+</card>
+<card>
+ <name>Forest</name>
+ <set rarity="">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set rarity="">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Plains</name>
+ <set rarity="">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set rarity="">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Alder Courtier</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Faerie Druid </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Alder Courtier dies, you gain 4 life.</text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set rarity="">ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Animus, Life's Entropy</name>
+ <set rarity="rare" splitterPath="/Animus, Life's Entropy.full.png" >ETF</set>
+ <color></color>
+ <related attach="attach">Animus Reformed</related>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature</type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>As Animus, Life’s Entropy enters, choose a color.
+You and Animus each have hexproof from the chosen color.
+Attain 6 (6: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Animus Reformed</text>
+</card>
+<card>
+ <name>Animus Reformed</name>
+ <set rarity="rare" splitterPath="/Animus Reformed.full.png" >ETF</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature</type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof
+You have hexproof.
+If a source would deal damage to you, prevent 1 of that damage.
+1, Sacrifice two permanents: Draw two cards. Activate only during your turn.
+---
+(Front): Animus, Life's Entropy</text>
+</card>
+<card>
+ <name>Indebted Burglar</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+Whenever Indebted Burglar becomes blocked, defending player loses 1 life.</text>
+</card>
+<card>
+ <name>Heir Unapparent</name>
+ <set rarity="rare">ETF</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 5 (This enters with five -1/-1 counters. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+Prevent all combat damage that would be dealt to Heir Unapparent.</text>
+</card>
+<card>
+ <name>Parish Infantry</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deploy 2 (As this enters, you may tap any number of other creatures you control with total power 2 or more.)
+When Parish Infantry enters deployed, search your library for a card named Parish Infantry, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Unbreakable Oath</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +1/+0 and gains indestructible until end of turn. Draw a card if you control an Angel, Demon, Faerie or Spirit.</text>
+</card>
+<card>
+ <name>Madame Deficit</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 2 (This enters with two -1/-1 counters. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+Whenever Madame Deficit attacks, you may tap target creature.</text>
+</card>
+<card>
+ <name>Fellow Traveler</name>
+ <set rarity="uncommon">ETF</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Deploy 3 (As this enters, you may tap any number of other creatures you control with total power 3 or more.)
+When Fellow Traveler enters deployed, you and target opponent each draw two cards.</text>
+</card>
+<card>
+ <name>Cursed Marksman</name>
+ <set rarity="rare">ETF</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)
+At the beginning of each player’s upkeep, put a -1/-1 counter on target creature that player controls.</text>
+</card>
+<card>
+ <name>Guided Hand</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target artifact or creature. It gains hexproof and indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Remove from the Equation</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -4/-0 until end of turn. If you control two or more tokens, draw a card.</text>
+</card>
+<card>
+ <name>Afternoon Ritual</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +1/+1 until end of turn.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Virtue of Propriety</name>
+ <set rarity="common">ETF</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Angel </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Virtue of Propriety enters, return target creature card with mana value 3 or less from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Endless Betrayals</name>
+ <set rarity="rare">ETF</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature or planeswalker.
+Agonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)</text>
+</card>
+<card>
+ <name>Industrial Revolt</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 red Human creature tokens with haste. Sacrifice those tokens at the beginning of the next end step.
+Draw a card.</text>
+</card>
+<card>
+ <name>Exchange Scholar</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: Draw a card, then discard a card.
+Whenever you cast an instant or sorcery spell, untap Exchange Scholar.</text>
+</card>
+<card>
+ <name>Hermetic Fisher</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Hermetic Fisher dies, you may return target creature to its owner’s hand.</text>
+</card>
+<card>
+ <name>Battle of Burning Cliffs</name>
+ <set rarity="uncommon">ETF</set>
+ <color>RG</color>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may discard a card. If you do, or if you control a creature with power 4 or greater, draw a card.</text>
+</card>
+<card>
+ <name>Distant Shores</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose a basic land type. Create a tapped colorless basic land token of the chosen type.</text>
+</card>
+<card>
+ <name>Wormwood's Agent</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Wormwood’s Agent dies, create a Vial token. (It’s an artifact with “1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</text>
+</card>
+<card>
+ <name>Munitions Explosion</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, pay 2 or put a -1/-1 counter on a creature you control.
+Munitions Explosion deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>Straw Intellectual</name>
+ <set rarity="uncommon">ETF</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Scarecrow Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Pay 2 life: Change a target of target spell or ability to Straw Intellectual.</text>
+</card>
+<card>
+ <name>Coastal Conjurer</name>
+ <set rarity="common" splitterPath="/Coastal Conjurer.full.png" >ETF</set>
+ <color>U</color>
+ <related attach="attach">Diluvian Diviner</related>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Merfolk Shaman </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Attain 4U (4U: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Diluvian Diviner</text>
+</card>
+<card>
+ <name>Diluvian Diviner</name>
+ <set rarity="common" splitterPath="/Diluvian Diviner.full.png" >ETF</set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Leviathan </type>
+ <pt>5/6</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof
+---
+(Front): Coastal Conjurer</text>
+</card>
+<card>
+ <name>Porcelain Peer</name>
+ <set rarity="uncommon">ETF</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a token that’s a copy of target creature you control.
+Lifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)</text>
+</card>
+<card>
+ <name>Fiend of Convenience</name>
+ <set rarity="uncommon">ETF</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Demon Advisor </type>
+ <pt>0/6</pt>
+ <tablerow>2</tablerow>
+ <text>When Fiend of Convenience enters, destroy target creature an opponent controls.
+Whenever Fiend of Convenience attacks, each opponent loses 3 life.</text>
+</card>
+<card>
+ <name>Dabbling Patron</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Dabbling Patron enters, if you cast an instant or sorcery spell this turn, create a 1/1 colorless Elemental creature token.</text>
+</card>
+<card>
+ <name>Fetching Gancanagh</name>
+ <set rarity="rare">ETF</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Faerie </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Fetching Gancanagh dies, draw a card. At the beginning of the next end step, up to one target creature you control becomes a copy of Fetching Gancanagh.</text>
+</card>
+<card>
+ <name>Affair of Honor</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights another target creature. You may discard a card. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Blighted Dullahan</name>
+ <set rarity="common">ETF</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Knight </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Blighted Dullahan dies, you draw a card and you lose 1 life.</text>
+</card>
+<card>
+ <name>Point Blank</name>
+ <set rarity="common">ETF</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 2 less to cast if you control a creature with power 4 or greater.
+Target creature gets +2/+0 and gains first strike and trample until end of turn.</text>
+</card>
+<card>
+ <name>Street Raider</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Deploy 4 (As this enters, you may tap any number of other creatures you control with total power 4 or more.)
+When Street Raider enters deployed, discard your hand, then draw three cards.</text>
+</card>
+<card>
+ <name>Blade of the First Stare</name>
+ <set rarity="uncommon" splitterPath="/Blade of the First Stare.full.png" >ETF</set>
+ <color>R</color>
+ <related attach="attach">Scourge of the Last Dance</related>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Attain 3R (3R: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+---
+(Back): Scourge of the Last Dance</text>
+</card>
+<card>
+ <name>Scourge of the Last Dance</name>
+ <set rarity="uncommon" splitterPath="/Scourge of the Last Dance.full.png" >ETF</set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Demon Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Creatures you control have trample.
+Excess noncombat damage that would be dealt by sources you control to permanents an opponent controls is dealt to that player instead.
+---
+(Front): Blade of the First Stare</text>
+</card>
+<card>
+ <name>Flight of Fancy</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Flight of Fancy enters, draw two cards.
+Enchanted creature has flying.</text>
+</card>
+<card>
+ <name>Tamer of the Ton</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Tamer of the Ton dies, create a 4/4 green Chimera creature token.</text>
+</card>
+<card>
+ <name>Dissipate</name>
+ <set rarity="common">ETF</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard.</text>
+</card>
+<card>
+ <name>Barton, Keen Surgeon</name>
+ <set rarity="rare">ETF</set>
+ <color>WU</color>
+ <manacost>3WU</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Once each turn, you may cast a spell without paying its mana cost. If you do, at the beginning of your next upkeep, you lose the game unless you pay that spell’s mana cost.</text>
+</card>
+<card>
+ <name>Suitor of Soot</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Disgraced 2  (This enters with two -1/-1 counters. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+</card>
+<card>
+ <name>Crimson Masquerade</name>
+ <set rarity="uncommon">ETF</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create three 2/2 red Noble creature tokens with disgraced 1. (Each enters with a -1/-1 counter. Whenever one deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+</card>
+<card>
+ <name>Brackish Kelpie</name>
+ <set rarity="common">ETF</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Faerie Beast </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+1G: Brackish Kelpie gets +2/+2 until end of turn. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Midnight Dreary</name>
+ <set rarity="uncommon">ETF</set>
+ <color>WU</color>
+ <manacost>WU</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you activate your first nonmana activated ability each turn, create a tapped 1/1 white Spirit creature token with flying.
+4WU: You gain 1 life and draw a card.</text>
+</card>
+<card>
+ <name>Miss Amelia Conway</name>
+ <set rarity="rare">ETF</set>
+ <color>UB</color>
+ <manacost>2UB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Okus </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+2]: Target player exiles a card from their hand at random. Until the end of that player’s next turn, they may play that card.
+[0]: Gain control of target creature or planeswalker until end of turn. Tap it.
+[-9]: Take an extra turn after this one. During that turn, you control all opponents.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Chimera ETF</name>
+ <set>ETF</set>
+ <color>G</color>
+ <type>Token Creature - Chimera </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related count="2">The Great Work Continues</reverse-related>
+<reverse-related>Tamer of the Ton</reverse-related>
+<reverse-related count="3">Simul, Sylvan Alchemist</reverse-related>
+
+</card>
+<card>
+ <name>Fallen One ETF</name>
+ <set>ETF</set>
+ <color>B</color>
+ <type>Legendary Token Creature - Faerie Angel Avatar </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+<reverse-related>Miss Leticia Wormwood</reverse-related>
+
+</card>
+<card>
+ <name>Noble ETF</name>
+ <set>ETF</set>
+ <color>R</color>
+ <type>Token Creature - Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Disgraced 1 (This enters with a -1/-1 counter. Whenever it deals combat damage to a player, remove all -1/-1 counters from it.)</text>
+ <token>1</token>
+<reverse-related count="3">Crimson Masquerade</reverse-related>
+
+</card>
+<card>
+ <name>Vial ETF</name>
+ <set>ETF</set>
+ <color></color>
+ <type>Token Artifact - Vial </type>
+ <tablerow>1</tablerow>
+ <text>1, Sacrifice this and another permanent: Draw a card. Activate only during your turn.</text>
+ <token>1</token>
+<reverse-related>Adept of Signals</reverse-related>
+<reverse-related>Carrier Familiar</reverse-related>
+<reverse-related>Endless Enlightenment</reverse-related>
+<reverse-related>Meticulous Process</reverse-related>
+<reverse-related>Outsider Alchemist</reverse-related>
+<reverse-related>Reduce to Essentials</reverse-related>
+<reverse-related>Spirit of Vitriol</reverse-related>
+<reverse-related>Adept of Transfusions</reverse-related>
+<reverse-related>Augmented Alchemist</reverse-related>
+<reverse-related>Consumption Catalyst</reverse-related>
+<reverse-related>Weeping Failure</reverse-related>
+<reverse-related>Wormwood's Agent</reverse-related>
+<reverse-related>Adept of Rations</reverse-related>
+<reverse-related>Cabinet of Curiosities</reverse-related>
+<reverse-related>Fine Collection</reverse-related>
+<reverse-related>Induced Violence</reverse-related>
+<reverse-related>Naive Apprentice</reverse-related>
+<reverse-related>Miss Leticia Wormwood</reverse-related>
+<reverse-related>Unmarked Vials</reverse-related>
+
+</card>
+<card>
+ <name>Elemental ETF</name>
+ <set>ETF</set>
+ <color></color>
+ <type>Token Creature - Elemental </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related count="2">Afternoon Ritual</reverse-related>
+<reverse-related count="2">Artificial Sanctity</reverse-related>
+<reverse-related count="2">Sacred Designs</reverse-related>
+<reverse-related count="2">Sublime the Soul</reverse-related>
+<reverse-related count="2">Unfounded Identity</reverse-related>
+<reverse-related count="2">Birds of Odd Feathers</reverse-related>
+<reverse-related count="2">Edulcorate</reverse-related>
+<reverse-related count="2">Imperfect Insight</reverse-related>
+<reverse-related count="2">Porcelain Peer</reverse-related>
+<reverse-related count="2">Vortex Vitae</reverse-related>
+<reverse-related>Dabbling Patron</reverse-related>
+<reverse-related count="2">Abolition of Self</reverse-related>
+<reverse-related count="2">Artificial Mortality</reverse-related>
+<reverse-related count="2">Balsam Elemental</reverse-related>
+<reverse-related count="2">The Great Work Continues</reverse-related>
+<reverse-related count="2">Life's Grandeur</reverse-related>
+<reverse-related count="2">Malignance</reverse-related>
+<reverse-related count="2">Verdurous Growth</reverse-related>
+<reverse-related>Benthic Alchemist</reverse-related>
+<reverse-related>Simul, Sylvan Alchemist</reverse-related>
+<reverse-related count="2">Abbey of Masquerades</reverse-related>
+
+</card>
+<card>
+ <name>Construct ETF</name>
+ <set>ETF</set>
+ <color>B</color>
+ <type>Token Artifact Creature - Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related count="2">Hopeless Lanonshee</reverse-related>
+
+</card>
+<card>
+ <name>Demon Hound ETF</name>
+ <set>ETF</set>
+ <color>B</color>
+ <type>Token Creature - Demon Hound </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch</text>
+ <token>1</token>
+<reverse-related>Trainer of the Abyss</reverse-related>
+
+</card>
+<card>
+ <name>Human ETF</name>
+ <set>ETF</set>
+ <color>R</color>
+ <type>Token Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste</text>
+ <token>1</token>
+<reverse-related>Universal Savior</reverse-related>
+<reverse-related count="3">Industrial Revolt</reverse-related>
+<reverse-related>Cathette, Rabble Rouser</reverse-related>
+
+</card>
+<card>
+ <name>Saproling ETF</name>
+ <set>ETF</set>
+ <color>G</color>
+ <type>Token Creature - Saproling </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Coalition Apothecary</reverse-related>
+
+</card>
+<card>
+ <name>Angel ETF</name>
+ <set>ETF</set>
+ <color>W</color>
+ <type>Token Creature - Angel </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance</text>
+ <token>1</token>
+<reverse-related>Amleth, Royal Claimant</reverse-related>
+
+</card>
+<card>
+ <name>Spirit ETF</name>
+ <set>ETF</set>
+ <color>W</color>
+ <type>Token Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+<reverse-related>Ethereal Shepherd</reverse-related>
+<reverse-related count="2">Sojourner of the Beyond</reverse-related>
+<reverse-related>Midnight Dreary</reverse-related>
+<reverse-related>Waltz of the Fallen</reverse-related>
+<reverse-related>Colonial Effigy</reverse-related>
+<reverse-related>Stained Reliquary</reverse-related>
+
+</card>
+<card>
+ <name>Spirit Noble ETF</name>
+ <set>ETF</set>
+ <color>W</color>
+ <type>Token Creature - Spirit Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink</text>
+ <token>1</token>
+<reverse-related>Absari, Chiresian Herald</reverse-related>
+
+</card>
+<card>
+ <name>Faerie ETF</name>
+ <set>ETF</set>
+ <color>B</color>
+ <type>Token Creature - Faerie </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+<reverse-related>Absari, Chiresian Herald</reverse-related>
+
+</card>
+<card>
+ <name>Forest Token ETF</name>
+ <set>ETF</set>
+ <color></color>
+ <type>Token Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Distant Shores</reverse-related>
+<reverse-related>Abbey of Masquerades</reverse-related>
+
+</card>
+<card>
+ <name>Faerie Bard ETF</name>
+ <set>ETF</set>
+ <color>G</color>
+ <type>Token Creature - Faerie Bard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Urisk's Invitation</reverse-related>
+
+</card>
+<card>
+ <name>Swamp Token ETF</name>
+ <set>ETF</set>
+ <color></color>
+ <type>Token Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Distant Shores</reverse-related>
+<reverse-related>Abbey of Masquerades</reverse-related>
+
+</card>
+<card>
+ <name>Island Token ETF</name>
+ <set>ETF</set>
+ <color></color>
+ <type>Token Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Distant Shores</reverse-related>
+<reverse-related>Abbey of Masquerades</reverse-related>
+
+</card>
+<card>
+ <name>Mountain Token ETF</name>
+ <set>ETF</set>
+ <color></color>
+ <type>Token Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Distant Shores</reverse-related>
+<reverse-related>Abbey of Masquerades</reverse-related>
+
+</card>
+<card>
+ <name>Plains Token ETF</name>
+ <set>ETF</set>
+ <color></color>
+ <type>Token Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Distant Shores</reverse-related>
+<reverse-related>Abbey of Masquerades</reverse-related>
+
+</card>
+<card>
+ <name>Soldier ETF</name>
+ <set>ETF</set>
+ <color>W</color>
+ <type>Token Creature - Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Amleth, Royal Claimant</reverse-related>
+
+</card>
+<card>
+ <name>Insect ETF</name>
+ <set>ETF</set>
+ <color></color>
+ <type>Token Creature - Insect </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Fine Collection</reverse-related>
+
+</card>
+
+</cards>
+</cockatrice_carddatabase>

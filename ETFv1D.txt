@@ -1,0 +1,3042 @@
+[CustomCards]
+	[    {
+	        "name": "Chartered Treasury",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Chartered Treasury.full.png"
+	        }
+	    },
+	    {
+	        "name": "Clocktower Hideout",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Clocktower Hideout.full.png"
+	        }
+	    },
+	    {
+	        "name": "Colonial Effigy",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Scarecrow ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Colonial Effigy.full.png"
+	        }
+	    },
+	    {
+	        "name": "Spare Rifle",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Spare Rifle.full.png"
+	        }
+	    },
+	    {
+	        "name": "Chimera",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Chimera ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Chimera.full.png"
+	        }
+	    },
+	    {
+	        "name": "Fallen One",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Legendary Token Creature — Faerie Angel Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Fallen One.full.png"
+	        }
+	    },
+	    {
+	        "name": "Coalition Apothecary",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Coalition Apothecary.full.png"
+	        }
+	    },
+	    {
+	        "name": "Disowned Spirit",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Disowned Spirit.full.png"
+	        }
+	    },
+	    {
+	        "name": "Domestic Conspirators",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Domestic Conspirators.full.png"
+	        }
+	    },
+	    {
+	        "name": "Faithful of New Covenants",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Faithful of New Covenants.full.png"
+	        }
+	    },
+	    {
+	        "name": "Futile Faith",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Futile Faith.full.png"
+	        }
+	    },
+	    {
+	        "name": "Grasping Choir",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Grasping Choir.full.png"
+	        }
+	    },
+	    {
+	        "name": "Inherited Blessing",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Inherited Blessing.full.png"
+	        }
+	    },
+	    {
+	        "name": "Involuntary Care",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Involuntary Care.full.png"
+	        }
+	    },
+	    {
+	        "name": "Liminal Medium",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Liminal Medium.full.png"
+	        },
+	        "printed names": {
+	            "en": "Liminal Medium"
+	        },
+	        "back": {
+	            "name": "Sojourner of the Beyond",
+	            "printed_names": {
+	                "en": "Sojourner of the Beyond"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sojourner of the Beyond.full.png"
+	            },
+	            "type": "Creature — Spirit Cleric "
+	        }
+	    },
+	    {
+	        "name": "Remade Dowager",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Remade Dowager.full.png"
+	        }
+	    },
+	    {
+	        "name": "Riverbed Spirit",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Riverbed Spirit.full.png"
+	        }
+	    },
+	    {
+	        "name": "Scarring Censure",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Scarring Censure.full.png"
+	        }
+	    },
+	    {
+	        "name": "Scavenging Soldier",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Scavenging Soldier.full.png"
+	        },
+	        "printed names": {
+	            "en": "Scavenging Soldier"
+	        },
+	        "back": {
+	            "name": "Celestial Conscript",
+	            "printed_names": {
+	                "en": "Celestial Conscript"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Celestial Conscript.full.png"
+	            },
+	            "type": "Creature — Angel Soldier "
+	        }
+	    },
+	    {
+	        "name": "Steadfast Infantry",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Steadfast Infantry.full.png"
+	        }
+	    },
+	    {
+	        "name": "Sublime the Soul",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sublime the Soul.full.png"
+	        }
+	    },
+	    {
+	        "name": "Battlefield Preserver",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Battlefield Preserver.full.png"
+	        }
+	    },
+	    {
+	        "name": "Failed Martyr",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Failed Martyr.full.png"
+	        },
+	        "printed names": {
+	            "en": "Failed Martyr"
+	        },
+	        "back": {
+	            "name": "Universal Savior",
+	            "printed_names": {
+	                "en": "Universal Savior"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Universal Savior.full.png"
+	            },
+	            "type": "Creature — Angel Bard "
+	        }
+	    },
+	    {
+	        "name": "Illuminating Archangel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Illuminating Archangel.full.png"
+	        }
+	    },
+	    {
+	        "name": "Masked Servant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Masked Servant.full.png"
+	        }
+	    },
+	    {
+	        "name": "Provisional Order",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Provisional Order.full.png"
+	        }
+	    },
+	    {
+	        "name": "Sacred Designs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sacred Designs.full.png"
+	        }
+	    },
+	    {
+	        "name": "Unfounded Identity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unfounded Identity.full.png"
+	        }
+	    },
+	    {
+	        "name": "Unite the Concordance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unite the Concordance.full.png"
+	        }
+	    },
+	    {
+	        "name": "Unwilling Pawn",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unwilling Pawn.full.png"
+	        },
+	        "printed names": {
+	            "en": "Unwilling Pawn"
+	        },
+	        "back": {
+	            "name": "Power of Redemption",
+	            "printed_names": {
+	                "en": "Power of Redemption"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Power of Redemption.full.png"
+	            },
+	            "type": "Creature — Angel Noble "
+	        }
+	    },
+	    {
+	        "name": "Arcane Dredger",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Merfolk Wizard Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Arcane Dredger.full.png"
+	        }
+	    },
+	    {
+	        "name": "Carrier Familiar",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Carrier Familiar.full.png"
+	        }
+	    },
+	    {
+	        "name": "Cursory Glance",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Cursory Glance.full.png"
+	        }
+	    },
+	    {
+	        "name": "Edulcorate",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Edulcorate.full.png"
+	        }
+	    },
+	    {
+	        "name": "Eternal Servant",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Eternal Servant.full.png"
+	        }
+	    },
+	    {
+	        "name": "Ethereal Threshold",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Spirit Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Ethereal Threshold.full.png"
+	        }
+	    },
+	    {
+	        "name": "Mercurial Merfolk",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Merfolk Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Mercurial Merfolk.full.png"
+	        }
+	    },
+	    {
+	        "name": "Meticulous Process",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Meticulous Process.full.png"
+	        }
+	    },
+	    {
+	        "name": "Midnight Visitor",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Midnight Visitor.full.png"
+	        }
+	    },
+	    {
+	        "name": "Outsider Alchemist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Outsider Alchemist.full.png"
+	        }
+	    },
+	    {
+	        "name": "Social Unweaving",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Social Unweaving.full.png"
+	        }
+	    },
+	    {
+	        "name": "Taken Under Wing",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Taken Under Wing.full.png"
+	        }
+	    },
+	    {
+	        "name": "Ungoverned Sneak",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Ungoverned Sneak.full.png"
+	        },
+	        "printed names": {
+	            "en": "Ungoverned Sneak"
+	        },
+	        "back": {
+	            "name": "Unbound Spirit",
+	            "printed_names": {
+	                "en": "Unbound Spirit"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unbound Spirit.full.png"
+	            },
+	            "type": "Creature — Spirit Rogue "
+	        }
+	    },
+	    {
+	        "name": "Vortex Vitae",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Vortex Vitae.full.png"
+	        }
+	    },
+	    {
+	        "name": "Adept of Signals",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Adept of Signals.full.png"
+	        }
+	    },
+	    {
+	        "name": "Cattish Bluestocking",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Cattish Bluestocking.full.png"
+	        },
+	        "printed names": {
+	            "en": "Cattish Bluestocking"
+	        },
+	        "back": {
+	            "name": "Literary Lioness",
+	            "printed_names": {
+	                "en": "Literary Lioness"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Literary Lioness.full.png"
+	            },
+	            "type": "Creature — Sphinx Wizard "
+	        }
+	    },
+	    {
+	        "name": "Daughter of Tempests",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Merfolk Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Daughter of Tempests.full.png"
+	        },
+	        "printed names": {
+	            "en": "Daughter of Tempests"
+	        },
+	        "back": {
+	            "name": "Sibling of All Elements",
+	            "printed_names": {
+	                "en": "Sibling of All Elements"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sibling of All Elements.full.png"
+	            },
+	            "type": "Creature — Merfolk Chimera "
+	        }
+	    },
+	    {
+	        "name": "Foggy Town Militia",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Foggy Town Militia.full.png"
+	        }
+	    },
+	    {
+	        "name": "Ghost of Lost Futures",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Ghost of Lost Futures.full.png"
+	        }
+	    },
+	    {
+	        "name": "Imperfect Insight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Imperfect Insight.full.png"
+	        }
+	    },
+	    {
+	        "name": "Mental Breakthrough",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Mental Breakthrough.full.png"
+	        }
+	    },
+	    {
+	        "name": "Reduce to Essentials",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Reduce to Essentials.full.png"
+	        }
+	    },
+	    {
+	        "name": "Sleepless Night",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sleepless Night.full.png"
+	        }
+	    },
+	    {
+	        "name": "Alchemical Devastation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Alchemical Devastation.full.png"
+	        }
+	    },
+	    {
+	        "name": "Augmented Alchemist",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Augmented Alchemist.full.png"
+	        }
+	    },
+	    {
+	        "name": "Bitter Regrets",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Bitter Regrets.full.png"
+	        }
+	    },
+	    {
+	        "name": "Bloodpact Collector",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Bloodpact Collector.full.png"
+	        }
+	    },
+	    {
+	        "name": "Cruel Display",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Cruel Display.full.png"
+	        }
+	    },
+	    {
+	        "name": "Griefless Widow",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Griefless Widow.full.png"
+	        }
+	    },
+	    {
+	        "name": "Immured Fiend",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Demon Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Immured Fiend.full.png"
+	        }
+	    },
+	    {
+	        "name": "Inhuman Grace",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Demon Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Inhuman Grace.full.png"
+	        },
+	        "printed names": {
+	            "en": "Inhuman Grace"
+	        },
+	        "back": {
+	            "name": "Unfallen Angel",
+	            "printed_names": {
+	                "en": "Unfallen Angel"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unfallen Angel.full.png"
+	            },
+	            "type": "Creature — Angel Demon "
+	        }
+	    },
+	    {
+	        "name": "Landed Bloodsucker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Landed Bloodsucker.full.png"
+	        }
+	    },
+	    {
+	        "name": "Lure Across the Veil",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Lure Across the Veil.full.png"
+	        }
+	    },
+	    {
+	        "name": "Melancholic Ichor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Melancholic Ichor.full.png"
+	        }
+	    },
+	    {
+	        "name": "Plagued Doctor",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Plagued Doctor.full.png"
+	        },
+	        "printed names": {
+	            "en": "Plagued Doctor"
+	        },
+	        "back": {
+	            "name": "Beast of Pestilence",
+	            "printed_names": {
+	                "en": "Beast of Pestilence"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Beast of Pestilence.full.png"
+	            },
+	            "type": "Creature — Demon Wizard "
+	        }
+	    },
+	    {
+	        "name": "Rotten Retinue",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Rotten Retinue.full.png"
+	        }
+	    },
+	    {
+	        "name": "Sanitarium Skeleton",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Skeleton ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sanitarium Skeleton.full.png"
+	        }
+	    },
+	    {
+	        "name": "Trainer of the Abyss",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Trainer of the Abyss.full.png"
+	        }
+	    },
+	    {
+	        "name": "Uncertain Times",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Uncertain Times.full.png"
+	        }
+	    },
+	    {
+	        "name": "Adept of Transfusions",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Adept of Transfusions.full.png"
+	        }
+	    },
+	    {
+	        "name": "Branded Contractor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Branded Contractor.full.png"
+	        }
+	    },
+	    {
+	        "name": "Bristling Baron",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Bristling Baron.full.png"
+	        }
+	    },
+	    {
+	        "name": "Consumption Catalyst",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Consumption Catalyst.full.png"
+	        }
+	    },
+	    {
+	        "name": "Covetous Pixie",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Covetous Pixie.full.png"
+	        }
+	    },
+	    {
+	        "name": "Death of the Author",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Death of the Author.full.png"
+	        }
+	    },
+	    {
+	        "name": "Hopeless Romantic",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hopeless Romantic.full.png"
+	        },
+	        "printed names": {
+	            "en": "Hopeless Romantic"
+	        },
+	        "back": {
+	            "name": "Hopeless Lanonshee",
+	            "printed_names": {
+	                "en": "Hopeless Lanonshee"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hopeless Lanonshee.full.png"
+	            },
+	            "type": "Creature — Faerie Artificer "
+	        }
+	    },
+	    {
+	        "name": "One Life for Another",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/One Life for Another.full.png"
+	        }
+	    },
+	    {
+	        "name": "Two-Faced Aristocrat",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Two-Faced Aristocrat.full.png"
+	        },
+	        "printed names": {
+	            "en": "Two-Faced Aristocrat"
+	        },
+	        "back": {
+	            "name": "Unfettered Noble",
+	            "printed_names": {
+	                "en": "Unfettered Noble"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unfettered Noble.full.png"
+	            },
+	            "type": "Creature — Demon Noble "
+	        }
+	    },
+	    {
+	        "name": "Unsolved Disappearance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unsolved Disappearance.full.png"
+	        }
+	    },
+	    {
+	        "name": "Abyssal Champion",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Demon Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Abyssal Champion.full.png"
+	        }
+	    },
+	    {
+	        "name": "Coalition Alchemist",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Coalition Alchemist.full.png"
+	        }
+	    },
+	    {
+	        "name": "Delegitimize",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Delegitimize.full.png"
+	        }
+	    },
+	    {
+	        "name": "Hotblooded Sorcerer",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hotblooded Sorcerer.full.png"
+	        },
+	        "printed names": {
+	            "en": "Hotblooded Sorcerer"
+	        },
+	        "back": {
+	            "name": "Inglorious Blaze",
+	            "printed_names": {
+	                "en": "Inglorious Blaze"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Inglorious Blaze.full.png"
+	            },
+	            "type": "Creature — Demon Wizard "
+	        }
+	    },
+	    {
+	        "name": "Lamplight Explosion",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Lamplight Explosion.full.png"
+	        }
+	    },
+	    {
+	        "name": "Last of Kin",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Last of Kin.full.png"
+	        }
+	    },
+	    {
+	        "name": "Out-of-Depth Amateur",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Merfolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Out-of-Depth Amateur.full.png"
+	        },
+	        "printed names": {
+	            "en": "Out-of-Depth Amateur"
+	        },
+	        "back": {
+	            "name": "Specialist of the Deep",
+	            "printed_names": {
+	                "en": "Specialist of the Deep"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Specialist of the Deep.full.png"
+	            },
+	            "type": "Creature — Merfolk Artificer "
+	        }
+	    },
+	    {
+	        "name": "Parish Rally",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Parish Rally.full.png"
+	        }
+	    },
+	    {
+	        "name": "Revolutionary Recruiters",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Revolutionary Recruiters.full.png"
+	        }
+	    },
+	    {
+	        "name": "Scarred Duelist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Scarred Duelist.full.png"
+	        }
+	    },
+	    {
+	        "name": "Scribe of Pacts",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Demon Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Scribe of Pacts.full.png"
+	        }
+	    },
+	    {
+	        "name": "Syncretic Partisan",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Syncretic Partisan.full.png"
+	        }
+	    },
+	    {
+	        "name": "Tears of Rage",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Tears of Rage.full.png"
+	        }
+	    },
+	    {
+	        "name": "Coalition Grenadier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Coalition Grenadier.full.png"
+	        }
+	    },
+	    {
+	        "name": "Cycle of Scars",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Cycle of Scars.full.png"
+	        }
+	    },
+	    {
+	        "name": "Hell's Bells",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hell's Bells.full.png"
+	        }
+	    },
+	    {
+	        "name": "Incarnation of Enmity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Demon Serpent ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Incarnation of Enmity.full.png"
+	        }
+	    },
+	    {
+	        "name": "Making Indentures",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Making Indentures.full.png"
+	        }
+	    },
+	    {
+	        "name": "Orphan Prodigy",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Orphan Prodigy.full.png"
+	        },
+	        "printed names": {
+	            "en": "Orphan Prodigy"
+	        },
+	        "back": {
+	            "name": "Prodigal Spark",
+	            "printed_names": {
+	                "en": "Prodigal Spark"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Prodigal Spark.full.png"
+	            },
+	            "type": "Creature — Elemental Wizard "
+	        }
+	    },
+	    {
+	        "name": "Overwhelming Fusillade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Overwhelming Fusillade.full.png"
+	        }
+	    },
+	    {
+	        "name": "Alchemical Awakening",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Alchemical Awakening.full.png"
+	        }
+	    },
+	    {
+	        "name": "Artificial Mortality",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Artificial Mortality.full.png"
+	        }
+	    },
+	    {
+	        "name": "Balsam Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Balsam Elemental.full.png"
+	        }
+	    },
+	    {
+	        "name": "Estranged Partisan",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Faerie Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Estranged Partisan.full.png"
+	        },
+	        "printed names": {
+	            "en": "Estranged Partisan"
+	        },
+	        "back": {
+	            "name": "Sylvan Subversive",
+	            "printed_names": {
+	                "en": "Sylvan Subversive"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sylvan Subversive.full.png"
+	            },
+	            "type": "Creature — Faerie Soldier "
+	        }
+	    },
+	    {
+	        "name": "False Dilemma",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/False Dilemma.full.png"
+	        }
+	    },
+	    {
+	        "name": "Fine Collection",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Fine Collection.full.png"
+	        }
+	    },
+	    {
+	        "name": "Gnarled Sprite",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Faerie Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Gnarled Sprite.full.png"
+	        }
+	    },
+	    {
+	        "name": "Hunter's Distinction",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hunter's Distinction.full.png"
+	        }
+	    },
+	    {
+	        "name": "Induced Violence",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Induced Violence.full.png"
+	        }
+	    },
+	    {
+	        "name": "Relief Battalion",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Relief Battalion.full.png"
+	        }
+	    },
+	    {
+	        "name": "Rogue Groundskeeper",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Rogue Groundskeeper.full.png"
+	        }
+	    },
+	    {
+	        "name": "Stray Sighthound",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Hound ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Stray Sighthound.full.png"
+	        },
+	        "printed names": {
+	            "en": "Stray Sighthound"
+	        },
+	        "back": {
+	            "name": "Seer of the Hunt",
+	            "printed_names": {
+	                "en": "Seer of the Hunt"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Seer of the Hunt.full.png"
+	            },
+	            "type": "Creature — Faerie Hound "
+	        }
+	    },
+	    {
+	        "name": "Verdurous Growth",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Verdurous Growth.full.png"
+	        }
+	    },
+	    {
+	        "name": "Volunteer Sentry",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Volunteer Sentry.full.png"
+	        }
+	    },
+	    {
+	        "name": "Witch of Life's Nature",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Witch of Life's Nature.full.png"
+	        }
+	    },
+	    {
+	        "name": "Abolition of Self",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Abolition of Self.full.png"
+	        }
+	    },
+	    {
+	        "name": "Adept of Rations",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Adept of Rations.full.png"
+	        }
+	    },
+	    {
+	        "name": "Alluring Rider",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Faerie Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Alluring Rider.full.png"
+	        },
+	        "printed names": {
+	            "en": "Alluring Rider"
+	        },
+	        "back": {
+	            "name": "Orphaned Nuckalavee",
+	            "printed_names": {
+	                "en": "Orphaned Nuckalavee"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Orphaned Nuckalavee.full.png"
+	            },
+	            "type": "Creature — Faerie Chimera "
+	        }
+	    },
+	    {
+	        "name": "Hamlet Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hamlet Witch.full.png"
+	        }
+	    },
+	    {
+	        "name": "Hunting Company",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hunting Company.full.png"
+	        }
+	    },
+	    {
+	        "name": "Malignance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Malignance.full.png"
+	        }
+	    },
+	    {
+	        "name": "Naive Apprentice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Naive Apprentice.full.png"
+	        }
+	    },
+	    {
+	        "name": "Sprout Hermit",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Faerie Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sprout Hermit.full.png"
+	        },
+	        "printed names": {
+	            "en": "Sprout Hermit"
+	        },
+	        "back": {
+	            "name": "Sprite of Spring",
+	            "printed_names": {
+	                "en": "Sprite of Spring"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sprite of Spring.full.png"
+	            },
+	            "type": "Creature — Faerie Shaman "
+	        }
+	    },
+	    {
+	        "name": "The Struggle for Death",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/The Struggle for Death.full.png"
+	        }
+	    },
+	    {
+	        "name": "Troubled Heir",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Troubled Heir.full.png"
+	        }
+	    },
+	    {
+	        "name": "Urisk's Invitation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Urisk's Invitation.full.png"
+	        }
+	    },
+	    {
+	        "name": "Noble",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Token Creature — Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Noble.full.png"
+	        }
+	    },
+	    {
+	        "name": "Vial",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Vial ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Vial.full.png"
+	        }
+	    },
+	    {
+	        "name": "Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Elemental.full.png"
+	        }
+	    },
+	    {
+	        "name": "Construct",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Construct.full.png"
+	        }
+	    },
+	    {
+	        "name": "Demon Hound",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Demon Hound ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Demon Hound.full.png"
+	        }
+	    },
+	    {
+	        "name": "Human",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Human.full.png"
+	        }
+	    },
+	    {
+	        "name": "Saproling",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Saproling ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Saproling.full.png"
+	        }
+	    },
+	    {
+	        "name": "Angel",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Angel.full.png"
+	        }
+	    },
+	    {
+	        "name": "Spirit",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Spirit.full.png"
+	        }
+	    },
+	    {
+	        "name": "Chimeral Plating",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Chimeral Plating.full.png"
+	        }
+	    },
+	    {
+	        "name": "Spirit Noble",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Spirit Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Spirit Noble.full.png"
+	        }
+	    },
+	    {
+	        "name": "Faerie",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Faerie.full.png"
+	        }
+	    },
+	    {
+	        "name": "Absari, Chiresian Herald",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{B}",
+	        "type": "Legendary Planeswalker — Absari ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Absari, Chiresian Herald.full.png"
+	        }
+	    },
+	    {
+	        "name": "Amleth, Royal Claimant",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Legendary Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Amleth, Royal Claimant.full.png"
+	        }
+	    },
+	    {
+	        "name": "Angel of the Flock",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Angel of the Flock.full.png"
+	        }
+	    },
+	    {
+	        "name": "Beachhead Partisan",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Beachhead Partisan.full.png"
+	        }
+	    },
+	    {
+	        "name": "Beatrice of the Urchins",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Legendary Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Beatrice of the Urchins.full.png"
+	        }
+	    },
+	    {
+	        "name": "Benthic Alchemist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Merfolk Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Benthic Alchemist.full.png"
+	        }
+	    },
+	    {
+	        "name": "Cathette, Rabble Rouser",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Legendary Planeswalker — Cathette ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Cathette, Rabble Rouser.full.png"
+	        }
+	    },
+	    {
+	        "name": "Fallen Sluagh",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature — Faerie Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Fallen Sluagh.full.png"
+	        }
+	    },
+	    {
+	        "name": "Kanvar, Coalition Leader",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}",
+	        "type": "Legendary Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Kanvar, Coalition Leader.full.png"
+	        }
+	    },
+	    {
+	        "name": "Miss Leticia Wormwood",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Legendary Planeswalker — Lettie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Miss Leticia Wormwood.full.png"
+	        }
+	    },
+	    {
+	        "name": "Mysteries of Life",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Mysteries of Life.full.png"
+	        }
+	    },
+	    {
+	        "name": "Scion of Fiends",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Scion of Fiends.full.png"
+	        }
+	    },
+	    {
+	        "name": "Simul, Sylvan Alchemist",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Legendary Planeswalker — Simul ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Simul, Sylvan Alchemist.full.png"
+	        }
+	    },
+	    {
+	        "name": "Waltz of the Fallen",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Waltz of the Fallen.full.png"
+	        }
+	    },
+	    {
+	        "name": "Witch of the Veil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Witch of the Veil.full.png"
+	        }
+	    },
+	    {
+	        "name": "Xenocrata, Usurper of Tides",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{R}",
+	        "type": "Legendary Planeswalker — Xenocrata ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Xenocrata, Usurper of Tides.full.png"
+	        }
+	    },
+	    {
+	        "name": "Barking Irons",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Barking Irons.full.png"
+	        }
+	    },
+	    {
+	        "name": "Barton's Pocketwatch",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Barton's Pocketwatch.full.png"
+	        }
+	    },
+	    {
+	        "name": "Celestial Scythe",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Celestial Scythe.full.png"
+	        }
+	    },
+	    {
+	        "name": "Mechanical Tactician",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Mechanical Tactician.full.png"
+	        }
+	    },
+	    {
+	        "name": "Prototype Engine",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Prototype Engine.full.png"
+	        }
+	    },
+	    {
+	        "name": "Stained Reliquary",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Stained Reliquary.full.png"
+	        }
+	    },
+	    {
+	        "name": "Strider Engine",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Strider Engine.full.png"
+	        }
+	    },
+	    {
+	        "name": "Unmarked Vials",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unmarked Vials.full.png"
+	        }
+	    },
+	    {
+	        "name": "Abbey of Masquerades",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Abbey of Masquerades.full.png"
+	        }
+	    },
+	    {
+	        "name": "Alchemist's Laboratory",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Alchemist's Laboratory.full.png"
+	        }
+	    },
+	    {
+	        "name": "Aristocrat's Gallery",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Aristocrat's Gallery.full.png"
+	        }
+	    },
+	    {
+	        "name": "Capital Towpath",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Capital Towpath.full.png"
+	        }
+	    },
+	    {
+	        "name": "Decayed Bedchamber",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Decayed Bedchamber.full.png"
+	        }
+	    },
+	    {
+	        "name": "Forgotten Attic",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Forgotten Attic.full.png"
+	        }
+	    },
+	    {
+	        "name": "Haunted Estate",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Haunted Estate.full.png"
+	        }
+	    },
+	    {
+	        "name": "Industrial District",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Industrial District.full.png"
+	        }
+	    },
+	    {
+	        "name": "Lamplit Thoroughfare",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Lamplit Thoroughfare.full.png"
+	        }
+	    },
+	    {
+	        "name": "Palace Hall",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Palace Hall.full.png"
+	        }
+	    },
+	    {
+	        "name": "Private Library",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Private Library.full.png"
+	        }
+	    },
+	    {
+	        "name": "Provincial Hamlet",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Provincial Hamlet.full.png"
+	        }
+	    },
+	    {
+	        "name": "Royal Hospital",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Royal Hospital.full.png"
+	        }
+	    },
+	    {
+	        "name": "Tenement Alley",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Tenement Alley.full.png"
+	        }
+	    },
+	    {
+	        "name": "University Archive",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/University Archive.full.png"
+	        }
+	    },
+	    {
+	        "name": "Veteran's Study",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Veteran's Study.full.png"
+	        }
+	    },
+	    {
+	        "name": "Virtuoso's Parlor",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Virtuoso's Parlor.full.png"
+	        }
+	    },
+	    {
+	        "name": "Walled Garden",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Walled Garden.full.png"
+	        }
+	    },
+	    {
+	        "name": "Weathered Wharf",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Weathered Wharf.full.png"
+	        }
+	    },
+	    {
+	        "name": "Artificial Sanctity",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Artificial Sanctity.full.png"
+	        }
+	    },
+	    {
+	        "name": "Divine Conspiracy",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Divine Conspiracy.full.png"
+	        }
+	    },
+	    {
+	        "name": "Earthly Principality",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Earthly Principality.full.png"
+	        }
+	    },
+	    {
+	        "name": "Ethereal Shepherd",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Spirit Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Ethereal Shepherd.full.png"
+	        }
+	    },
+	    {
+	        "name": "Joane, Royal Spymaster",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Joane, Royal Spymaster.full.png"
+	        },
+	        "printed names": {
+	            "en": "Joane, Royal Spymaster"
+	        },
+	        "back": {
+	            "name": "The Conquering Wyrm",
+	            "printed_names": {
+	                "en": "The Conquering Wyrm"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/The Conquering Wyrm.full.png"
+	            },
+	            "type": "Legendary Creature — Dragon Spirit "
+	        }
+	    },
+	    {
+	        "name": "Sacred Opus",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Sacred Opus.full.png"
+	        }
+	    },
+	    {
+	        "name": "The Empty Throne",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/The Empty Throne.full.png"
+	        }
+	    },
+	    {
+	        "name": "Birds of Odd Feathers",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Birds of Odd Feathers.full.png"
+	        }
+	    },
+	    {
+	        "name": "Elementary Conclusion",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Elementary Conclusion.full.png"
+	        }
+	    },
+	    {
+	        "name": "Endless Enlightenment",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Endless Enlightenment.full.png"
+	        }
+	    },
+	    {
+	        "name": "Janneke, Surface Scholar",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Merfolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Janneke, Surface Scholar.full.png"
+	        },
+	        "printed names": {
+	            "en": "Janneke, Surface Scholar"
+	        },
+	        "back": {
+	            "name": "Janneke, Adept of Mortals",
+	            "printed_names": {
+	                "en": "Janneke, Adept of Mortals"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Janneke, Adept of Mortals.full.png"
+	            },
+	            "type": "Legendary Creature — Human Merfolk "
+	        }
+	    },
+	    {
+	        "name": "Organic Dreadnought",
+	        "rarity": "rare",
+	        "mana_cost": "{6}{U}{U}",
+	        "type": "Creature — Leviathan Chimera ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Organic Dreadnought.full.png"
+	        }
+	    },
+	    {
+	        "name": "Quicken",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Quicken.full.png"
+	        }
+	    },
+	    {
+	        "name": "Reconstructed Adept",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Reconstructed Adept.full.png"
+	        }
+	    },
+	    {
+	        "name": "Spirit of Vitriol",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Spirit of Vitriol.full.png"
+	        }
+	    },
+	    {
+	        "name": "Demon of Necessary Evil",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Demon Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Demon of Necessary Evil.full.png"
+	        }
+	    },
+	    {
+	        "name": "Disharmony of the Spheres",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Disharmony of the Spheres.full.png"
+	        }
+	    },
+	    {
+	        "name": "Lord Pollux Marglen",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Creature — Vampire Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Lord Pollux Marglen.full.png"
+	        },
+	        "printed names": {
+	            "en": "Lord Pollux Marglen"
+	        },
+	        "back": {
+	            "name": "Marglen of Undying Oaths",
+	            "printed_names": {
+	                "en": "Marglen of Undying Oaths"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Marglen of Undying Oaths.full.png"
+	            },
+	            "type": "Legendary Creature — Vampire Demon "
+	        }
+	    },
+	    {
+	        "name": "Tempting Tutor",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Tempting Tutor.full.png"
+	        }
+	    },
+	    {
+	        "name": "Titan of Fallen Stars",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creatures — Faerie Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Titan of Fallen Stars.full.png"
+	        }
+	    },
+	    {
+	        "name": "Weeping Failure",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Ooze Chimera ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Weeping Failure.full.png"
+	        }
+	    },
+	    {
+	        "name": "Desperate Contrition",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Desperate Contrition.full.png"
+	        }
+	    },
+	    {
+	        "name": "Fallen Star's Revelation",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Fallen Star's Revelation.full.png"
+	        }
+	    },
+	    {
+	        "name": "Forgotten Tyrant",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Forgotten Tyrant.full.png"
+	        }
+	    },
+	    {
+	        "name": "Line Officer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Line Officer.full.png"
+	        }
+	    },
+	    {
+	        "name": "Master of No Quarter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Master of No Quarter.full.png"
+	        }
+	    },
+	    {
+	        "name": "Regrets of Mortals",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Demon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Regrets of Mortals.full.png"
+	        }
+	    },
+	    {
+	        "name": "Street Combat",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Street Combat.full.png"
+	        }
+	    },
+	    {
+	        "name": "Cabinet of Curiosities",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Cabinet of Curiosities.full.png"
+	        }
+	    },
+	    {
+	        "name": "Glaistig of Wild Hunts",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Faerie Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Glaistig of Wild Hunts.full.png"
+	        }
+	    },
+	    {
+	        "name": "Grim Sower",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Faerie Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Grim Sower.full.png"
+	        }
+	    },
+	    {
+	        "name": "Hyden, Form Philosopher",
+	        "mana_cost": "{2}{G}",
+	        "type": "Legendary Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hyden, Form Philosopher.full.png"
+	        },
+	        "printed names": {
+	            "en": "Hyden, Form Philosopher"
+	        },
+	        "back": {
+	            "name": "The Finest Specimen",
+	            "printed_names": {
+	                "en": "The Finest Specimen"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/The Finest Specimen.full.png"
+	            },
+	            "type": "Legendary Creature — Insect Chimera "
+	        }
+	    },
+	    {
+	        "name": "Life's Grandeur",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Life's Grandeur.full.png"
+	        }
+	    },
+	    {
+	        "name": "Natural Philosopher",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Natural Philosopher.full.png"
+	        }
+	    },
+	    {
+	        "name": "The Great Work Continues",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/The Great Work Continues.full.png"
+	        }
+	    },
+	    {
+	        "name": "The Marquess Devonport",
+	        "mana_cost": "{1}{R}",
+	        "type": "Legendary Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/The Marquess Devonport.full.png"
+	        },
+	        "printed names": {
+	            "en": "The Marquess Devonport"
+	        },
+	        "back": {
+	            "name": "The Branded Usurper",
+	            "printed_names": {
+	                "en": "The Branded Usurper"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/The Branded Usurper.full.png"
+	            },
+	            "type": "Legendary Creature — Dragon Noble "
+	        }
+	    },
+	    {
+	        "name": "Forest Token",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Forest Token.full.png"
+	        }
+	    },
+	    {
+	        "name": "Faerie Bard",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Faerie Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Faerie Bard.full.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp Token",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Swamp Token.full.png"
+	        }
+	    },
+	    {
+	        "name": "Island Token",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Island Token.full.png"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Forest.full.png"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Island.full.png"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Plains.full.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Mountain.full.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain Token",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Mountain Token.full.png"
+	        }
+	    },
+	    {
+	        "name": "Plains Token",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Plains Token.full.png"
+	        }
+	    },
+	    {
+	        "name": "Soldier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Soldier.full.png"
+	        }
+	    },
+	    {
+	        "name": "Alder Courtier",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Faerie Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Alder Courtier.full.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Swamp.full.png"
+	        }
+	    },
+	    {
+	        "name": "Animus, Life's Entropy",
+	        "mana_cost": "{4}",
+	        "type": "Legendary Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Animus, Life's Entropy.full.png"
+	        },
+	        "printed names": {
+	            "en": "Animus, Life's Entropy"
+	        },
+	        "back": {
+	            "name": "Animus Reformed",
+	            "printed_names": {
+	                "en": "Animus Reformed"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Animus Reformed.full.png"
+	            },
+	            "type": "Legendary Creature"
+	        }
+	    },
+	    {
+	        "name": "Insect",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Insect.full.png"
+	        }
+	    },
+	    {
+	        "name": "Indebted Burglar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Indebted Burglar.full.png"
+	        }
+	    },
+	    {
+	        "name": "Heir Unapparent",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Heir Unapparent.full.png"
+	        }
+	    },
+	    {
+	        "name": "Parish Infantry",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Parish Infantry.full.png"
+	        }
+	    },
+	    {
+	        "name": "Unbreakable Oath",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Unbreakable Oath.full.png"
+	        }
+	    },
+	    {
+	        "name": "Madame Deficit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Madame Deficit.full.png"
+	        }
+	    },
+	    {
+	        "name": "Fellow Traveler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Fellow Traveler.full.png"
+	        }
+	    },
+	    {
+	        "name": "Cursed Marksman",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Cursed Marksman.full.png"
+	        }
+	    },
+	    {
+	        "name": "Guided Hand",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Guided Hand.full.png"
+	        }
+	    },
+	    {
+	        "name": "Remove from the Equation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Remove from the Equation.full.png"
+	        }
+	    },
+	    {
+	        "name": "Afternoon Ritual",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Afternoon Ritual.full.png"
+	        }
+	    },
+	    {
+	        "name": "Virtue of Propriety",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Virtue of Propriety.full.png"
+	        }
+	    },
+	    {
+	        "name": "Endless Betrayals",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Endless Betrayals.full.png"
+	        }
+	    },
+	    {
+	        "name": "Industrial Revolt",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Industrial Revolt.full.png"
+	        }
+	    },
+	    {
+	        "name": "Exchange Scholar",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Exchange Scholar.full.png"
+	        }
+	    },
+	    {
+	        "name": "Hermetic Fisher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Hermetic Fisher.full.png"
+	        }
+	    },
+	    {
+	        "name": "Battle of Burning Cliffs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Battle of Burning Cliffs.full.png"
+	        }
+	    },
+	    {
+	        "name": "Distant Shores",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Distant Shores.full.png"
+	        }
+	    },
+	    {
+	        "name": "Wormwood's Agent",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Wormwood's Agent.full.png"
+	        }
+	    },
+	    {
+	        "name": "Munitions Explosion",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Munitions Explosion.full.png"
+	        }
+	    },
+	    {
+	        "name": "Straw Intellectual",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Scarecrow Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Straw Intellectual.full.png"
+	        }
+	    },
+	    {
+	        "name": "Coastal Conjurer",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Merfolk Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Coastal Conjurer.full.png"
+	        },
+	        "printed names": {
+	            "en": "Coastal Conjurer"
+	        },
+	        "back": {
+	            "name": "Diluvian Diviner",
+	            "printed_names": {
+	                "en": "Diluvian Diviner"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Diluvian Diviner.full.png"
+	            },
+	            "type": "Creature — Merfolk Leviathan "
+	        }
+	    },
+	    {
+	        "name": "Porcelain Peer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Porcelain Peer.full.png"
+	        }
+	    },
+	    {
+	        "name": "Fiend of Convenience",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Demon Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Fiend of Convenience.full.png"
+	        }
+	    },
+	    {
+	        "name": "Dabbling Patron",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Dabbling Patron.full.png"
+	        }
+	    },
+	    {
+	        "name": "Fetching Gancanagh",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Fetching Gancanagh.full.png"
+	        }
+	    },
+	    {
+	        "name": "Affair of Honor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Affair of Honor.full.png"
+	        }
+	    },
+	    {
+	        "name": "Blighted Dullahan",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Faerie Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Blighted Dullahan.full.png"
+	        }
+	    },
+	    {
+	        "name": "Point Blank",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Point Blank.full.png"
+	        }
+	    },
+	    {
+	        "name": "Street Raider",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Street Raider.full.png"
+	        }
+	    },
+	    {
+	        "name": "Blade of the First Stare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Blade of the First Stare.full.png"
+	        },
+	        "printed names": {
+	            "en": "Blade of the First Stare"
+	        },
+	        "back": {
+	            "name": "Scourge of the Last Dance",
+	            "printed_names": {
+	                "en": "Scourge of the Last Dance"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Scourge of the Last Dance.full.png"
+	            },
+	            "type": "Creature — Demon Noble "
+	        }
+	    },
+	    {
+	        "name": "Flight of Fancy",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Flight of Fancy.full.png"
+	        }
+	    },
+	    {
+	        "name": "Tamer of the Ton",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Tamer of the Ton.full.png"
+	        }
+	    },
+	    {
+	        "name": "Dissipate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Dissipate.full.png"
+	        }
+	    },
+	    {
+	        "name": "Barton, Keen Surgeon",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Barton, Keen Surgeon.full.png"
+	        }
+	    },
+	    {
+	        "name": "Suitor of Soot",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Suitor of Soot.full.png"
+	        }
+	    },
+	    {
+	        "name": "Crimson Masquerade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Crimson Masquerade.full.png"
+	        }
+	    },
+	    {
+	        "name": "Brackish Kelpie",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Faerie Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Brackish Kelpie.full.png"
+	        }
+	    },
+	    {
+	        "name": "Midnight Dreary",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Midnight Dreary.full.png"
+	        }
+	    },
+	    {
+	        "name": "Miss Amelia Conway",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Legendary Planeswalker — Okus ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PlanesculptorTEST/ETF-Draftmancer/main/ETFv1C-files/Miss Amelia Conway.full.png"
+	        }
+	    }
+	]
+[Settings]
+{
+    "layouts": {
+        "ETF-CDFC-C": {
+            "weight": 35,
+            "slots": {
+                  "Common": 9,
+                  "Uncommon": 3,
+                  "Rare": 1,
+                  "CDFC": 1,
+                  "CNB": 1
+            }
+        },
+        "ETF-CDFC-RDFC": {
+            "weight": 5,
+            "slots": {
+                  "Common": 8,
+                  "Uncommon": 3,
+                  "Rare": 1,
+                  "CDFC": 1,
+                  "RDFC": 1,
+                  "CNB": 1
+            }
+        },
+        "ETF-UDFC-C": {
+            "weight": 14,
+            "slots": {
+                  "Common": 9,
+                  "Uncommon": 3,
+                  "Rare": 1,
+                  "UDFC": 1,
+                  "CNB": 1
+            }
+        },
+        "ETF-UDFC-RDFC": {
+            "weight": 2,
+            "slots": {
+                  "Common": 8,
+                  "Uncommon": 3,
+                  "Rare": 1,
+                  "UDFC": 1,
+                  "RDFC": 1,
+                  "CNB": 1
+            }
+        }
+    }
+}
+	[Common]
+		50 Colonial Effigy
+		50 Spare Rifle
+		50 Coalition Apothecary
+		50 Disowned Spirit
+		50 Domestic Conspirators
+		50 Faithful of New Covenants
+		50 Futile Faith
+		50 Grasping Choir
+		50 Inherited Blessing
+		50 Involuntary Care
+		50 Remade Dowager
+		50 Riverbed Spirit
+		50 Scarring Censure
+		50 Steadfast Infantry
+		50 Sublime the Soul
+		50 Arcane Dredger
+		50 Carrier Familiar
+		50 Cursory Glance
+		50 Edulcorate
+		50 Eternal Servant
+		50 Ethereal Threshold
+		50 Mercurial Merfolk
+		50 Meticulous Process
+		50 Midnight Visitor
+		50 Outsider Alchemist
+		50 Social Unweaving
+		50 Taken Under Wing
+		50 Vortex Vitae
+		50 Alchemical Devastation
+		50 Augmented Alchemist
+		50 Bitter Regrets
+		50 Bloodpact Collector
+		50 Cruel Display
+		50 Griefless Widow
+		50 Immured Fiend
+		50 Landed Bloodsucker
+		50 Lure Across the Veil
+		50 Melancholic Ichor
+		50 Rotten Retinue
+		50 Sanitarium Skeleton
+		50 Trainer of the Abyss
+		50 Uncertain Times
+		50 Abyssal Champion
+		50 Coalition Alchemist
+		50 Delegitimize
+		50 Lamplight Explosion
+		50 Last of Kin
+		50 Parish Rally
+		50 Revolutionary Recruiters
+		50 Scarred Duelist
+		50 Scribe of Pacts
+		50 Syncretic Partisan
+		50 Tears of Rage
+		50 Alchemical Awakening
+		50 Artificial Mortality
+		50 Balsam Elemental
+		50 False Dilemma
+		50 Fine Collection
+		50 Gnarled Sprite
+		50 Hunter's Distinction
+		50 Induced Violence
+		50 Relief Battalion
+		50 Rogue Groundskeeper
+		50 Verdurous Growth
+		50 Volunteer Sentry
+		50 Witch of Life's Nature
+		50 Celestial Scythe
+		50 Prototype Engine
+		50 Strider Engine
+		50 Unmarked Vials
+		50 Alder Courtier
+		50 Indebted Burglar
+		50 Parish Infantry
+		50 Unbreakable Oath
+		50 Guided Hand
+		50 Remove from the Equation
+		50 Afternoon Ritual
+		50 Virtue of Propriety
+		50 Industrial Revolt
+		50 Exchange Scholar
+		50 Distant Shores
+		50 Wormwood's Agent
+		50 Munitions Explosion
+		50 Dabbling Patron
+		50 Affair of Honor
+		50 Blighted Dullahan
+		50 Point Blank
+		50 Flight of Fancy
+		50 Tamer of the Ton
+		50 Dissipate
+		50 Brackish Kelpie
+	[Uncommon]
+		50 Battlefield Preserver
+		50 Illuminating Archangel
+		50 Masked Servant
+		50 Provisional Order
+		50 Sacred Designs
+		50 Unfounded Identity
+		50 Unite the Concordance
+		50 Adept of Signals
+		50 Foggy Town Militia
+		50 Ghost of Lost Futures
+		50 Imperfect Insight
+		50 Mental Breakthrough
+		50 Reduce to Essentials
+		50 Sleepless Night
+		50 Adept of Transfusions
+		50 Branded Contractor
+		50 Bristling Baron
+		50 Consumption Catalyst
+		50 Covetous Pixie
+		50 Death of the Author
+		50 One Life for Another
+		50 Unsolved Disappearance
+		50 Coalition Grenadier
+		50 Cycle of Scars
+		50 Hell's Bells
+		50 Incarnation of Enmity
+		50 Making Indentures
+		50 Overwhelming Fusillade
+		50 Abolition of Self
+		50 Adept of Rations
+		50 Hamlet Witch
+		50 Hunting Company
+		50 Malignance
+		50 Naive Apprentice
+		50 The Struggle for Death
+		50 Troubled Heir
+		50 Urisk's Invitation
+		50 Chimeral Plating
+		50 Angel of the Flock
+		50 Beachhead Partisan
+		50 Benthic Alchemist
+		50 Fallen Sluagh
+		50 Mysteries of Life
+		50 Scion of Fiends
+		50 Waltz of the Fallen
+		50 Witch of the Veil
+		50 Barking Irons
+		50 Mechanical Tactician
+		50 Stained Reliquary
+		50 Alchemist's Laboratory
+		50 Capital Towpath
+		50 Haunted Estate
+		50 Industrial District
+		50 Lamplit Thoroughfare
+		50 Provincial Hamlet
+		50 Royal Hospital
+		50 Tenement Alley
+		50 Walled Garden
+		50 Weathered Wharf
+		50 Madame Deficit
+		50 Fellow Traveler
+		50 Hermetic Fisher
+		50 Battle of Burning Cliffs
+		50 Straw Intellectual
+		50 Porcelain Peer
+		50 Fiend of Convenience
+		50 Street Raider
+		50 Suitor of Soot
+		50 Crimson Masquerade
+		50 Midnight Dreary
+	[Rare]
+		50 Absari, Chiresian Herald
+		50 Amleth, Royal Claimant
+		50 Beatrice of the Urchins
+		50 Cathette, Rabble Rouser
+		50 Kanvar, Coalition Leader
+		50 Miss Leticia Wormwood
+		50 Simul, Sylvan Alchemist
+		50 Xenocrata, Usurper of Tides
+		50 Barton's Pocketwatch
+		50 Abbey of Masquerades
+		50 Artificial Sanctity
+		50 Divine Conspiracy
+		50 Earthly Principality
+		50 Ethereal Shepherd
+		50 Sacred Opus
+		50 The Empty Throne
+		50 Birds of Odd Feathers
+		50 Elementary Conclusion
+		50 Endless Enlightenment
+		50 Organic Dreadnought
+		50 Quicken
+		50 Reconstructed Adept
+		50 Spirit of Vitriol
+		50 Demon of Necessary Evil
+		50 Disharmony of the Spheres
+		50 Tempting Tutor
+		50 Titan of Fallen Stars
+		50 Weeping Failure
+		50 Desperate Contrition
+		50 Fallen Star's Revelation
+		50 Forgotten Tyrant
+		50 Line Officer
+		50 Master of No Quarter
+		50 Regrets of Mortals
+		50 Street Combat
+		50 Cabinet of Curiosities
+		50 Glaistig of Wild Hunts
+		50 Grim Sower
+		50 Life's Grandeur
+		50 Natural Philosopher
+		50 The Great Work Continues
+		50 Heir Unapparent
+		50 Cursed Marksman
+		50 Endless Betrayals
+		50 Fetching Gancanagh
+		50 Barton, Keen Surgeon
+		50 Miss Amelia Conway
+	[CDFC]
+		50 Liminal Medium
+		50 Scavenging Soldier
+		50 Ungoverned Sneak
+		50 Coastal Conjurer
+		50 Plagued Doctor
+		50 Inhuman Grace
+		50 Hotblooded Sorcerer
+		50 Out-of-Depth Amateur
+		50 Estranged Partisan
+		50 Stray Sighthound
+	[UDFC]
+		50 Failed Martyr
+		50 Unwilling Pawn
+		50 Cattish Bluestocking
+		50 Daughter of Tempests
+		50 Hopeless Romantic
+		50 Two-Faced Aristocrat
+		50 Orphan Prodigy
+		50 Blade of the First Stare
+		50 Alluring Rider
+		50 Sprout Hermit
+	[RDFC]
+		50 Animus, Life's Entropy
+		50 Joane, Royal Spymaster
+		50 Janneke, Surface Scholar
+		50 Lord Pollux Marglen
+		50 The Marquess Devonport
+		50 Hyden, Form Philosopher
+	[CNB]	
+		50 Chartered Treasury
+		50 Clocktower Hideout
+		50 Aristocrat's Gallery
+		50 Decayed Bedchamber
+		50 Forgotten Attic
+		50 Palace Hall
+		50 Private Library
+		50 University Archive
+		50 Veteran's Study
+		50 Virtuoso's Parlor

@@ -2790,253 +2790,253 @@
     }
 }
 	[Common]
-		50 Colonial Effigy
-		50 Spare Rifle
-		50 Coalition Apothecary
-		50 Disowned Spirit
-		50 Domestic Conspirators
-		50 Faithful of New Covenants
-		50 Futile Faith
-		50 Grasping Choir
-		50 Inherited Blessing
-		50 Involuntary Care
-		50 Remade Dowager
-		50 Riverbed Spirit
-		50 Scarring Censure
-		50 Steadfast Infantry
-		50 Sublime the Soul
-		50 Arcane Dredger
-		50 Carrier Familiar
-		50 Cursory Glance
-		50 Edulcorate
-		50 Eternal Servant
-		50 Ethereal Threshold
-		50 Mercurial Merfolk
-		50 Meticulous Process
-		50 Midnight Visitor
-		50 Outsider Alchemist
-		50 Social Unweaving
-		50 Taken Under Wing
-		50 Vortex Vitae
-		50 Alchemical Devastation
-		50 Augmented Alchemist
-		50 Bitter Regrets
-		50 Bloodpact Collector
-		50 Cruel Display
-		50 Griefless Widow
-		50 Immured Fiend
-		50 Landed Bloodsucker
-		50 Lure Across the Veil
-		50 Melancholic Ichor
-		50 Rotten Retinue
-		50 Sanitarium Skeleton
-		50 Trainer of the Abyss
-		50 Uncertain Times
-		50 Abyssal Champion
-		50 Coalition Alchemist
-		50 Delegitimize
-		50 Lamplight Explosion
-		50 Last of Kin
-		50 Parish Rally
-		50 Revolutionary Recruiters
-		50 Scarred Duelist
-		50 Scribe of Pacts
-		50 Syncretic Partisan
-		50 Tears of Rage
-		50 Alchemical Awakening
-		50 Artificial Mortality
-		50 Balsam Elemental
-		50 False Dilemma
-		50 Fine Collection
-		50 Gnarled Sprite
-		50 Hunter's Distinction
-		50 Induced Violence
-		50 Relief Battalion
-		50 Rogue Groundskeeper
-		50 Verdurous Growth
-		50 Volunteer Sentry
-		50 Witch of Life's Nature
-		50 Celestial Scythe
-		50 Prototype Engine
-		50 Strider Engine
-		50 Unmarked Vials
-		50 Alder Courtier
-		50 Indebted Burglar
-		50 Parish Infantry
-		50 Unbreakable Oath
-		50 Guided Hand
-		50 Remove from the Equation
-		50 Afternoon Ritual
-		50 Virtue of Propriety
-		50 Industrial Revolt
-		50 Exchange Scholar
-		50 Distant Shores
-		50 Wormwood's Agent
-		50 Munitions Explosion
-		50 Dabbling Patron
-		50 Affair of Honor
-		50 Blighted Dullahan
-		50 Point Blank
-		50 Flight of Fancy
-		50 Tamer of the Ton
-		50 Dissipate
-		50 Brackish Kelpie
+		30 Colonial Effigy
+		30 Spare Rifle
+		30 Coalition Apothecary
+		30 Disowned Spirit
+		30 Domestic Conspirators
+		30 Faithful of New Covenants
+		30 Futile Faith
+		30 Grasping Choir
+		30 Inherited Blessing
+		30 Involuntary Care
+		30 Remade Dowager
+		30 Riverbed Spirit
+		30 Scarring Censure
+		30 Steadfast Infantry
+		30 Sublime the Soul
+		30 Arcane Dredger
+		30 Carrier Familiar
+		30 Cursory Glance
+		30 Edulcorate
+		30 Eternal Servant
+		30 Ethereal Threshold
+		30 Mercurial Merfolk
+		30 Meticulous Process
+		30 Midnight Visitor
+		30 Outsider Alchemist
+		30 Social Unweaving
+		30 Taken Under Wing
+		30 Vortex Vitae
+		30 Alchemical Devastation
+		30 Augmented Alchemist
+		30 Bitter Regrets
+		30 Bloodpact Collector
+		30 Cruel Display
+		30 Griefless Widow
+		30 Immured Fiend
+		30 Landed Bloodsucker
+		30 Lure Across the Veil
+		30 Melancholic Ichor
+		30 Rotten Retinue
+		30 Sanitarium Skeleton
+		30 Trainer of the Abyss
+		30 Uncertain Times
+		30 Abyssal Champion
+		30 Coalition Alchemist
+		30 Delegitimize
+		30 Lamplight Explosion
+		30 Last of Kin
+		30 Parish Rally
+		30 Revolutionary Recruiters
+		30 Scarred Duelist
+		30 Scribe of Pacts
+		30 Syncretic Partisan
+		30 Tears of Rage
+		30 Alchemical Awakening
+		30 Artificial Mortality
+		30 Balsam Elemental
+		30 False Dilemma
+		30 Fine Collection
+		30 Gnarled Sprite
+		30 Hunter's Distinction
+		30 Induced Violence
+		30 Relief Battalion
+		30 Rogue Groundskeeper
+		30 Verdurous Growth
+		30 Volunteer Sentry
+		30 Witch of Life's Nature
+		30 Celestial Scythe
+		30 Prototype Engine
+		30 Strider Engine
+		30 Unmarked Vials
+		30 Alder Courtier
+		30 Indebted Burglar
+		30 Parish Infantry
+		30 Unbreakable Oath
+		30 Guided Hand
+		30 Remove from the Equation
+		30 Afternoon Ritual
+		30 Virtue of Propriety
+		30 Industrial Revolt
+		30 Exchange Scholar
+		30 Distant Shores
+		30 Wormwood's Agent
+		30 Munitions Explosion
+		30 Dabbling Patron
+		30 Affair of Honor
+		30 Blighted Dullahan
+		30 Point Blank
+		30 Flight of Fancy
+		30 Tamer of the Ton
+		30 Dissipate
+		30 Brackish Kelpie
 	[Uncommon]
-		50 Battlefield Preserver
-		50 Illuminating Archangel
-		50 Masked Servant
-		50 Provisional Order
-		50 Sacred Designs
-		50 Unfounded Identity
-		50 Unite the Concordance
-		50 Adept of Signals
-		50 Foggy Town Militia
-		50 Ghost of Lost Futures
-		50 Imperfect Insight
-		50 Mental Breakthrough
-		50 Reduce to Essentials
-		50 Sleepless Night
-		50 Adept of Transfusions
-		50 Branded Contractor
-		50 Bristling Baron
-		50 Consumption Catalyst
-		50 Covetous Pixie
-		50 Death of the Author
-		50 One Life for Another
-		50 Unsolved Disappearance
-		50 Coalition Grenadier
-		50 Cycle of Scars
-		50 Hell's Bells
-		50 Incarnation of Enmity
-		50 Making Indentures
-		50 Overwhelming Fusillade
-		50 Abolition of Self
-		50 Adept of Rations
-		50 Hamlet Witch
-		50 Hunting Company
-		50 Malignance
-		50 Naive Apprentice
-		50 The Struggle for Death
-		50 Troubled Heir
-		50 Urisk's Invitation
-		50 Chimeral Plating
-		50 Angel of the Flock
-		50 Beachhead Partisan
-		50 Benthic Alchemist
-		50 Fallen Sluagh
-		50 Mysteries of Life
-		50 Scion of Fiends
-		50 Waltz of the Fallen
-		50 Witch of the Veil
-		50 Barking Irons
-		50 Mechanical Tactician
-		50 Stained Reliquary
-		50 Alchemist's Laboratory
-		50 Capital Towpath
-		50 Haunted Estate
-		50 Industrial District
-		50 Lamplit Thoroughfare
-		50 Provincial Hamlet
-		50 Royal Hospital
-		50 Tenement Alley
-		50 Walled Garden
-		50 Weathered Wharf
-		50 Madame Deficit
-		50 Fellow Traveler
-		50 Hermetic Fisher
-		50 Battle of Burning Cliffs
-		50 Straw Intellectual
-		50 Porcelain Peer
-		50 Fiend of Convenience
-		50 Street Raider
-		50 Suitor of Soot
-		50 Crimson Masquerade
-		50 Midnight Dreary
+		9 Battlefield Preserver
+		9 Illuminating Archangel
+		9 Masked Servant
+		9 Provisional Order
+		9 Sacred Designs
+		9 Unfounded Identity
+		9 Unite the Concordance
+		9 Adept of Signals
+		9 Foggy Town Militia
+		9 Ghost of Lost Futures
+		9 Imperfect Insight
+		9 Mental Breakthrough
+		9 Reduce to Essentials
+		9 Sleepless Night
+		9 Adept of Transfusions
+		9 Branded Contractor
+		9 Bristling Baron
+		9 Consumption Catalyst
+		9 Covetous Pixie
+		9 Death of the Author
+		9 One Life for Another
+		9 Unsolved Disappearance
+		9 Coalition Grenadier
+		9 Cycle of Scars
+		9 Hell's Bells
+		9 Incarnation of Enmity
+		9 Making Indentures
+		9 Overwhelming Fusillade
+		9 Abolition of Self
+		9 Adept of Rations
+		9 Hamlet Witch
+		9 Hunting Company
+		9 Malignance
+		9 Naive Apprentice
+		9 The Struggle for Death
+		9 Troubled Heir
+		9 Urisk's Invitation
+		9 Chimeral Plating
+		9 Angel of the Flock
+		9 Beachhead Partisan
+		9 Benthic Alchemist
+		9 Fallen Sluagh
+		9 Mysteries of Life
+		9 Scion of Fiends
+		9 Waltz of the Fallen
+		9 Witch of the Veil
+		9 Barking Irons
+		9 Mechanical Tactician
+		9 Stained Reliquary
+		9 Alchemist's Laboratory
+		9 Capital Towpath
+		9 Haunted Estate
+		9 Industrial District
+		9 Lamplit Thoroughfare
+		9 Provincial Hamlet
+		9 Royal Hospital
+		9 Tenement Alley
+		9 Walled Garden
+		9 Weathered Wharf
+		9 Madame Deficit
+		9 Fellow Traveler
+		9 Hermetic Fisher
+		9 Battle of Burning Cliffs
+		9 Straw Intellectual
+		9 Porcelain Peer
+		9 Fiend of Convenience
+		9 Street Raider
+		9 Suitor of Soot
+		9 Crimson Masquerade
+		9 Midnight Dreary
 	[Rare]
-		50 Absari, Chiresian Herald
-		50 Amleth, Royal Claimant
-		50 Beatrice of the Urchins
-		50 Cathette, Rabble Rouser
-		50 Kanvar, Coalition Leader
-		50 Miss Leticia Wormwood
-		50 Simul, Sylvan Alchemist
-		50 Xenocrata, Usurper of Tides
-		50 Barton's Pocketwatch
-		50 Abbey of Masquerades
-		50 Artificial Sanctity
-		50 Divine Conspiracy
-		50 Earthly Principality
-		50 Ethereal Shepherd
-		50 Sacred Opus
-		50 The Empty Throne
-		50 Birds of Odd Feathers
-		50 Elementary Conclusion
-		50 Endless Enlightenment
-		50 Organic Dreadnought
-		50 Quicken
-		50 Reconstructed Adept
-		50 Spirit of Vitriol
-		50 Demon of Necessary Evil
-		50 Disharmony of the Spheres
-		50 Tempting Tutor
-		50 Titan of Fallen Stars
-		50 Weeping Failure
-		50 Desperate Contrition
-		50 Fallen Star's Revelation
-		50 Forgotten Tyrant
-		50 Line Officer
-		50 Master of No Quarter
-		50 Regrets of Mortals
-		50 Street Combat
-		50 Cabinet of Curiosities
-		50 Glaistig of Wild Hunts
-		50 Grim Sower
-		50 Life's Grandeur
-		50 Natural Philosopher
-		50 The Great Work Continues
-		50 Heir Unapparent
-		50 Cursed Marksman
-		50 Endless Betrayals
-		50 Fetching Gancanagh
-		50 Barton, Keen Surgeon
-		50 Miss Amelia Conway
+		3 Absari, Chiresian Herald
+		3 Amleth, Royal Claimant
+		3 Beatrice of the Urchins
+		3 Cathette, Rabble Rouser
+		3 Kanvar, Coalition Leader
+		3 Miss Leticia Wormwood
+		3 Simul, Sylvan Alchemist
+		3 Xenocrata, Usurper of Tides
+		3 Barton's Pocketwatch
+		3 Abbey of Masquerades
+		3 Artificial Sanctity
+		3 Divine Conspiracy
+		3 Earthly Principality
+		3 Ethereal Shepherd
+		3 Sacred Opus
+		3 The Empty Throne
+		3 Birds of Odd Feathers
+		3 Elementary Conclusion
+		3 Endless Enlightenment
+		3 Organic Dreadnought
+		3 Quicken
+		3 Reconstructed Adept
+		3 Spirit of Vitriol
+		3 Demon of Necessary Evil
+		3 Disharmony of the Spheres
+		3 Tempting Tutor
+		3 Titan of Fallen Stars
+		3 Weeping Failure
+		3 Desperate Contrition
+		3 Fallen Star's Revelation
+		3 Forgotten Tyrant
+		3 Line Officer
+		3 Master of No Quarter
+		3 Regrets of Mortals
+		3 Street Combat
+		3 Cabinet of Curiosities
+		3 Glaistig of Wild Hunts
+		3 Grim Sower
+		3 Life's Grandeur
+		3 Natural Philosopher
+		3 The Great Work Continues
+		3 Heir Unapparent
+		3 Cursed Marksman
+		3 Endless Betrayals
+		3 Fetching Gancanagh
+		3 Barton, Keen Surgeon
+		3 Miss Amelia Conway
 	[CDFC]
-		50 Liminal Medium
-		50 Scavenging Soldier
-		50 Ungoverned Sneak
-		50 Coastal Conjurer
-		50 Plagued Doctor
-		50 Inhuman Grace
-		50 Hotblooded Sorcerer
-		50 Out-of-Depth Amateur
-		50 Estranged Partisan
-		50 Stray Sighthound
+		30 Liminal Medium
+		30 Scavenging Soldier
+		30 Ungoverned Sneak
+		30 Coastal Conjurer
+		30 Plagued Doctor
+		30 Inhuman Grace
+		30 Hotblooded Sorcerer
+		30 Out-of-Depth Amateur
+		30 Estranged Partisan
+		30 Stray Sighthound
 	[UDFC]
-		50 Failed Martyr
-		50 Unwilling Pawn
-		50 Cattish Bluestocking
-		50 Daughter of Tempests
-		50 Hopeless Romantic
-		50 Two-Faced Aristocrat
-		50 Orphan Prodigy
-		50 Blade of the First Stare
-		50 Alluring Rider
-		50 Sprout Hermit
+		9 Failed Martyr
+		9 Unwilling Pawn
+		9 Cattish Bluestocking
+		9 Daughter of Tempests
+		9 Hopeless Romantic
+		9 Two-Faced Aristocrat
+		9 Orphan Prodigy
+		9 Blade of the First Stare
+		9 Alluring Rider
+		9 Sprout Hermit
 	[RDFC]
-		50 Animus, Life's Entropy
-		50 Joane, Royal Spymaster
-		50 Janneke, Surface Scholar
-		50 Lord Pollux Marglen
-		50 The Marquess Devonport
-		50 Hyden, Form Philosopher
+		3 Animus, Life's Entropy
+		3 Joane, Royal Spymaster
+		3 Janneke, Surface Scholar
+		3 Lord Pollux Marglen
+		3 The Marquess Devonport
+		3 Hyden, Form Philosopher
 	[CNB]	
-		50 Chartered Treasury
-		50 Clocktower Hideout
-		50 Aristocrat's Gallery
-		50 Decayed Bedchamber
-		50 Forgotten Attic
-		50 Palace Hall
-		50 Private Library
-		50 University Archive
-		50 Veteran's Study
-		50 Virtuoso's Parlor
+		30 Chartered Treasury
+		30 Clocktower Hideout
+		30 Aristocrat's Gallery
+		30 Decayed Bedchamber
+		30 Forgotten Attic
+		30 Palace Hall
+		30 Private Library
+		30 University Archive
+		30 Veteran's Study
+		30 Virtuoso's Parlor

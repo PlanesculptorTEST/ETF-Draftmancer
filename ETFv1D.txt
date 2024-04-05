@@ -2789,6 +2789,154 @@
         }
     }
 }
+	[RDFC]
+		3 Animus, Life's Entropy
+		3 Joane, Royal Spymaster
+		3 Janneke, Surface Scholar
+		3 Lord Pollux Marglen
+		3 The Marquess Devonport
+		3 Hyden, Form Philosopher
+	[Rare]
+		3 Absari, Chiresian Herald
+		3 Amleth, Royal Claimant
+		3 Beatrice of the Urchins
+		3 Cathette, Rabble Rouser
+		3 Kanvar, Coalition Leader
+		3 Miss Leticia Wormwood
+		3 Simul, Sylvan Alchemist
+		3 Xenocrata, Usurper of Tides
+		3 Barton's Pocketwatch
+		3 Abbey of Masquerades
+		3 Artificial Sanctity
+		3 Divine Conspiracy
+		3 Earthly Principality
+		3 Ethereal Shepherd
+		3 Sacred Opus
+		3 The Empty Throne
+		3 Birds of Odd Feathers
+		3 Elementary Conclusion
+		3 Endless Enlightenment
+		3 Organic Dreadnought
+		3 Quicken
+		3 Reconstructed Adept
+		3 Spirit of Vitriol
+		3 Demon of Necessary Evil
+		3 Disharmony of the Spheres
+		3 Tempting Tutor
+		3 Titan of Fallen Stars
+		3 Weeping Failure
+		3 Desperate Contrition
+		3 Fallen Star's Revelation
+		3 Forgotten Tyrant
+		3 Line Officer
+		3 Master of No Quarter
+		3 Regrets of Mortals
+		3 Street Combat
+		3 Cabinet of Curiosities
+		3 Glaistig of Wild Hunts
+		3 Grim Sower
+		3 Life's Grandeur
+		3 Natural Philosopher
+		3 The Great Work Continues
+		3 Heir Unapparent
+		3 Cursed Marksman
+		3 Endless Betrayals
+		3 Fetching Gancanagh
+		3 Barton, Keen Surgeon
+		3 Miss Amelia Conway
+	[UDFC]
+		9 Failed Martyr
+		9 Unwilling Pawn
+		9 Cattish Bluestocking
+		9 Daughter of Tempests
+		9 Hopeless Romantic
+		9 Two-Faced Aristocrat
+		9 Orphan Prodigy
+		9 Blade of the First Stare
+		9 Alluring Rider
+		9 Sprout Hermit
+	[Uncommon]
+		9 Battlefield Preserver
+		9 Illuminating Archangel
+		9 Masked Servant
+		9 Provisional Order
+		9 Sacred Designs
+		9 Unfounded Identity
+		9 Unite the Concordance
+		9 Adept of Signals
+		9 Foggy Town Militia
+		9 Ghost of Lost Futures
+		9 Imperfect Insight
+		9 Mental Breakthrough
+		9 Reduce to Essentials
+		9 Sleepless Night
+		9 Adept of Transfusions
+		9 Branded Contractor
+		9 Bristling Baron
+		9 Consumption Catalyst
+		9 Covetous Pixie
+		9 Death of the Author
+		9 One Life for Another
+		9 Unsolved Disappearance
+		9 Coalition Grenadier
+		9 Cycle of Scars
+		9 Hell's Bells
+		9 Incarnation of Enmity
+		9 Making Indentures
+		9 Overwhelming Fusillade
+		9 Abolition of Self
+		9 Adept of Rations
+		9 Hamlet Witch
+		9 Hunting Company
+		9 Malignance
+		9 Naive Apprentice
+		9 The Struggle for Death
+		9 Troubled Heir
+		9 Urisk's Invitation
+		9 Chimeral Plating
+		9 Angel of the Flock
+		9 Beachhead Partisan
+		9 Benthic Alchemist
+		9 Fallen Sluagh
+		9 Mysteries of Life
+		9 Scion of Fiends
+		9 Waltz of the Fallen
+		9 Witch of the Veil
+		9 Barking Irons
+		9 Mechanical Tactician
+		9 Stained Reliquary
+		9 Alchemist's Laboratory
+		9 Capital Towpath
+		9 Haunted Estate
+		9 Industrial District
+		9 Lamplit Thoroughfare
+		9 Provincial Hamlet
+		9 Royal Hospital
+		9 Tenement Alley
+		9 Walled Garden
+		9 Weathered Wharf
+		9 Madame Deficit
+		9 Fellow Traveler
+		9 Hermetic Fisher
+		9 Battle of Burning Cliffs
+		9 Straw Intellectual
+		9 Porcelain Peer
+		9 Fiend of Convenience
+		9 Street Raider
+		9 Suitor of Soot
+		9 Crimson Masquerade
+		9 Midnight Dreary
+	[CDFC]
+		30 Liminal Medium
+		30 Scavenging Soldier
+		30 Ungoverned Sneak
+		30 Coastal Conjurer
+		30 Plagued Doctor
+		30 Inhuman Grace
+		30 Hotblooded Sorcerer
+		30 Out-of-Depth Amateur
+		30 Estranged Partisan
+		30 Stray Sighthound
 	[Common]
 		30 Colonial Effigy
 		30 Spare Rifle
@@ -2881,154 +3029,6 @@
 		30 Tamer of the Ton
 		30 Dissipate
 		30 Brackish Kelpie
-	[Uncommon]
-		9 Battlefield Preserver
-		9 Illuminating Archangel
-		9 Masked Servant
-		9 Provisional Order
-		9 Sacred Designs
-		9 Unfounded Identity
-		9 Unite the Concordance
-		9 Adept of Signals
-		9 Foggy Town Militia
-		9 Ghost of Lost Futures
-		9 Imperfect Insight
-		9 Mental Breakthrough
-		9 Reduce to Essentials
-		9 Sleepless Night
-		9 Adept of Transfusions
-		9 Branded Contractor
-		9 Bristling Baron
-		9 Consumption Catalyst
-		9 Covetous Pixie
-		9 Death of the Author
-		9 One Life for Another
-		9 Unsolved Disappearance
-		9 Coalition Grenadier
-		9 Cycle of Scars
-		9 Hell's Bells
-		9 Incarnation of Enmity
-		9 Making Indentures
-		9 Overwhelming Fusillade
-		9 Abolition of Self
-		9 Adept of Rations
-		9 Hamlet Witch
-		9 Hunting Company
-		9 Malignance
-		9 Naive Apprentice
-		9 The Struggle for Death
-		9 Troubled Heir
-		9 Urisk's Invitation
-		9 Chimeral Plating
-		9 Angel of the Flock
-		9 Beachhead Partisan
-		9 Benthic Alchemist
-		9 Fallen Sluagh
-		9 Mysteries of Life
-		9 Scion of Fiends
-		9 Waltz of the Fallen
-		9 Witch of the Veil
-		9 Barking Irons
-		9 Mechanical Tactician
-		9 Stained Reliquary
-		9 Alchemist's Laboratory
-		9 Capital Towpath
-		9 Haunted Estate
-		9 Industrial District
-		9 Lamplit Thoroughfare
-		9 Provincial Hamlet
-		9 Royal Hospital
-		9 Tenement Alley
-		9 Walled Garden
-		9 Weathered Wharf
-		9 Madame Deficit
-		9 Fellow Traveler
-		9 Hermetic Fisher
-		9 Battle of Burning Cliffs
-		9 Straw Intellectual
-		9 Porcelain Peer
-		9 Fiend of Convenience
-		9 Street Raider
-		9 Suitor of Soot
-		9 Crimson Masquerade
-		9 Midnight Dreary
-	[Rare]
-		3 Absari, Chiresian Herald
-		3 Amleth, Royal Claimant
-		3 Beatrice of the Urchins
-		3 Cathette, Rabble Rouser
-		3 Kanvar, Coalition Leader
-		3 Miss Leticia Wormwood
-		3 Simul, Sylvan Alchemist
-		3 Xenocrata, Usurper of Tides
-		3 Barton's Pocketwatch
-		3 Abbey of Masquerades
-		3 Artificial Sanctity
-		3 Divine Conspiracy
-		3 Earthly Principality
-		3 Ethereal Shepherd
-		3 Sacred Opus
-		3 The Empty Throne
-		3 Birds of Odd Feathers
-		3 Elementary Conclusion
-		3 Endless Enlightenment
-		3 Organic Dreadnought
-		3 Quicken
-		3 Reconstructed Adept
-		3 Spirit of Vitriol
-		3 Demon of Necessary Evil
-		3 Disharmony of the Spheres
-		3 Tempting Tutor
-		3 Titan of Fallen Stars
-		3 Weeping Failure
-		3 Desperate Contrition
-		3 Fallen Star's Revelation
-		3 Forgotten Tyrant
-		3 Line Officer
-		3 Master of No Quarter
-		3 Regrets of Mortals
-		3 Street Combat
-		3 Cabinet of Curiosities
-		3 Glaistig of Wild Hunts
-		3 Grim Sower
-		3 Life's Grandeur
-		3 Natural Philosopher
-		3 The Great Work Continues
-		3 Heir Unapparent
-		3 Cursed Marksman
-		3 Endless Betrayals
-		3 Fetching Gancanagh
-		3 Barton, Keen Surgeon
-		3 Miss Amelia Conway
-	[CDFC]
-		30 Liminal Medium
-		30 Scavenging Soldier
-		30 Ungoverned Sneak
-		30 Coastal Conjurer
-		30 Plagued Doctor
-		30 Inhuman Grace
-		30 Hotblooded Sorcerer
-		30 Out-of-Depth Amateur
-		30 Estranged Partisan
-		30 Stray Sighthound
-	[UDFC]
-		9 Failed Martyr
-		9 Unwilling Pawn
-		9 Cattish Bluestocking
-		9 Daughter of Tempests
-		9 Hopeless Romantic
-		9 Two-Faced Aristocrat
-		9 Orphan Prodigy
-		9 Blade of the First Stare
-		9 Alluring Rider
-		9 Sprout Hermit
-	[RDFC]
-		3 Animus, Life's Entropy
-		3 Joane, Royal Spymaster
-		3 Janneke, Surface Scholar
-		3 Lord Pollux Marglen
-		3 The Marquess Devonport
-		3 Hyden, Form Philosopher
 	[CNB]	
 		30 Chartered Treasury
 		30 Clocktower Hideout
